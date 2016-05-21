@@ -1,0 +1,42 @@
+Name;Type;Policy Name;Password Override;Custom Quota
+LDAP://HH-CTITDCP01 OU=Communications,OU=ICT - Technical Services,OU=Employees,DC=homechoice,DC=co,DC=za/luttaz;User;Full Access;Off;Default
+LDAP://homechoice.co.za OU=Other,OU=Admin,OU=Accounts,OU=Enterprise Security,DC=homechoice,DC=co,DC=za/Andre Mathee Admin;User;WebProxy-No_Restrictions;Off;Default
+LDAP://HH-CTITDCP01 OU=ICT - HC Developers,OU=ICT - ALL,OU=Employees,DC=homechoice,DC=co,DC=za/Reza Khan;User;CallCentres - Approved URL List only;Off;Default
+LDAP://homechoice.co.za OU=Groups,DC=homechoice,DC=co,DC=za/WebProxy - Management;Group;Management;Off;Default
+LDAP://homechoice.co.za OU=Groups,DC=homechoice,DC=co,DC=za/WebProxy - WhatsAppWeb;Group;WhatsAppWeb;Off;Default
+LDAP://homechoice.co.za OU=Groups,DC=homechoice,DC=co,DC=za/WebProxy - FTP;Group;FTP Access;Off;Default
+LDAP://HH-CTITDCP01 OU=DBA,OU=ICT - Technical Services,OU=Employees,DC=homechoice,DC=co,DC=za/dramaya;User;WebProxy-No_Restrictions;Off;Default
+LDAP://homechoice.co.za OU=Server Support,OU=ICT - Technical Services,OU=Employees,DC=homechoice,DC=co,DC=za/Vuyisa Mtalana;User;WebProxy-No_Restrictions;Off;Default
+LDAP://homechoice.co.za OU=Corporate Executive,DC=homechoice,DC=co,DC=za/Nina Wagener;User;Full Access;Off;Default
+LDAP://homechoice.co.za OU=Groups,DC=homechoice,DC=co,DC=za/WebProxy - Merchandise;Group;Merchandise;Off;Default
+LDAP://homechoice.co.za OU=Groups,DC=homechoice,DC=co,DC=za/WebProxy - Dropbox;Group;DropBox;Off;Default
+LDAP://homechoice.co.za OU=Groups,DC=homechoice,DC=co,DC=za/WebProxy - SocialMedia;Group;Social Media;Off;Default
+LDAP://HH-CTITDCP01 OU=Groups,DC=homechoice,DC=co,DC=za/WebProxy - CallCentre - Restricted Access;Group;CallCentres - Approved URL List only;Off;Default
+LDAP://homechoice.co.za OU=Employees,OU=Managed Users,OU=_HomeChoice,DC=homechoice,DC=co,DC=za/André Mathee;User;WebProxy-No_Restrictions;Off;Default
+LDAP://HH-CTITDCP01 OU=Customer Services Back Office,OU=Employees,DC=homechoice,DC=co,DC=za/beharr;User;Full Access;Off;Default
+LDAP://homechoice.co.za OU=Groups,DC=homechoice,DC=co,DC=za/WebProxy - FullAccess;Group;Full Access;Off;Default
+LDAP://homechoice.co.za OU=Groups,DC=homechoice,DC=co,DC=za/WebProxy - Basic Group;Group;Basic Internet Access;Off;Default
+LDAP://homechoice.co.za OU=Groups,DC=homechoice,DC=co,DC=za/WebProxy - RemoteAdmin;Group;Remote Admin;Off;Default
+LDAP://homechoice.co.za OU=3rd Party Users,OU=Accounts,OU=Enterprise Security,DC=homechoice,DC=co,DC=za/Quinton Hughes;User;WebProxy-No_Restrictions;Off;Default
+LDAP://homechoice.co.za OU=Groups,DC=homechoice,DC=co,DC=za/WebProxy - MerchandisingMarketing;Group;Merchandising and Marketing;Off;Default
+LDAP://homechoice.co.za OU=Other,OU=Admin,OU=Accounts,OU=Enterprise Security,DC=homechoice,DC=co,DC=za/André Mathea Adm;User;WebProxy-No_Restrictions;Off;Default
+LDAP://homechoice.co.za OU=Groups,DC=homechoice,DC=co,DC=za/WebProxy - HR;Group;Human Resources;Off;Default
+LDAP://homechoice.co.za OU=DBA,OU=ICT - Technical Services,OU=Employees,DC=homechoice,DC=co,DC=za/Bulelani Poner;User;WebProxy-No_Restrictions;Off;Default
+LDAP://homechoice.co.za OU=Groups,DC=homechoice,DC=co,DC=za/WebProxy - Skype;Group;Skype;Off;Default
+192.168.63.111;Computer;Merchandising and Marketing;Off;Default
+192.168.63.13;Computer;Merchandising and Marketing;Off;Default
+172.16.28.30;Computer;Full Access;Off;Default
+192.168.63.38;Computer;Merchandising and Marketing;Off;Default
+192.168.63.1-192.168.63.254;Network;Merchandising and Marketing;Off;Default
+172.16.11.27;Computer;Full Access;Off;Default
+192.168.63.35;Computer;Merchandising and Marketing;Off;Default
+172.16.98.29;Computer;Full Access;Off;Default
+192.168.67.240;Computer;WebProxy-No_Restrictions;Off;Default
+192.168.63.97;Computer;Merchandising and Marketing;Off;Default
+172.18.10.13;Computer;Skype;Off;Default
+192.168.63.9;Computer;Merchandising and Marketing;Off;Default
+10.0.0.122;Computer;Full Access;Off;Default
+172.18.18.39;Computer;Full Access;Off;Default
+192.168.63.70;Computer;Merchandising and Marketing;Off;Default
+10.0.0.121;Computer;Full Access;Off;Default
+172.16.10.9;Computer;WebProxy-No_Restrictions;Off;Default

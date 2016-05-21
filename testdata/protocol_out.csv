@@ -1,0 +1,2401 @@
+Name;Protocol;Action;Log Protocol;Bandwidth Optimizer
+Default;Access Grid;Block;false;Do not block based on bandwidth
+Default;Adobe Updater (WSG Only);Permit;false;Do not block based on bandwidth
+Default;AOL Instant Messenger or ICQ;Block;true;Do not block based on bandwidth
+Default;AOL Instant Messenger or ICQ attachments;Block;false;Do not block based on bandwidth
+Default;AOL Radio;Block;true;Do not block based on bandwidth
+Default;Ares;Block;true;Do not block based on bandwidth
+Default;Badongo Buddy;Block;false;Do not block based on bandwidth
+Default;Baidu Hi;Block;false;Do not block based on bandwidth
+Default;BBC iPlayer;Block;false;Do not block based on bandwidth
+Default;BeInSync;Block;false;Do not block based on bandwidth
+Default;BitTorrent;Block;true;Do not block based on bandwidth
+Default;Bot Networks;Block;false;Do not block based on bandwidth
+Default;BoxCloud;Block;true;Do not block based on bandwidth
+Default;Brosix;Block;false;Do not block based on bandwidth
+Default;Camfrog;Block;true;Do not block based on bandwidth
+Default;Chikka Messenger;Block;false;Do not block based on bandwidth
+Default;Citrix;Block;false;Do not block based on bandwidth
+Default;ClipMoon;Block;false;Do not block based on bandwidth
+Default;ClubBox;Block;true;Do not block based on bandwidth
+Default;Comodo EasyVPN;Block;false;Do not block based on bandwidth
+Default;CrossLoop;Block;false;Do not block based on bandwidth
+Default;Dailymotion;Block;false;Do not block based on bandwidth
+Default;Damaka;Block;true;Do not block based on bandwidth
+Default;daytime;Permit;false;Do not block based on bandwidth
+Default;DirectConnect;Block;true;Do not block based on bandwidth
+Default;eDonkey;Block;true;Do not block based on bandwidth
+Default;Email Borne Worms;Permit;false;Do not block based on bandwidth
+Default;Eyeball Chat;Block;true;Do not block based on bandwidth
+Default;EZPeer;Block;true;Do not block based on bandwidth
+Default;FastTrack (Kazaa iMesh);Block;true;Do not block based on bandwidth
+Default;Finetune;Block;false;Do not block based on bandwidth
+Default;finger;Permit;false;Do not block based on bandwidth
+Default;FolderShare;Block;true;Do not block based on bandwidth
+Default;FTP;Permit;true;Do not block based on bandwidth
+Default;Gadu-Gadu;Block;true;Do not block based on bandwidth
+Default;GhostSurf;Block;true;Do not block based on bandwidth
+Default;GigaTribe;Block;true;Do not block based on bandwidth
+Default;Gizmo Project;Block;true;Do not block based on bandwidth
+Default;Globe7;Block;false;Do not block based on bandwidth
+Default;Gmail Chat (WSG Only);Block;true;Do not block based on bandwidth
+Default;Gnutella (Morpheus Xolox);Block;false;Do not block based on bandwidth
+Default;Goober Messenger;Block;false;Do not block based on bandwidth
+Default;Google Talk;Block;true;Do not block based on bandwidth
+Default;Google Video;Block;false;Do not block based on bandwidth
+Default;Google Wave (WSG Only);Block;false;Do not block based on bandwidth
+Default;Google Web Accelerator;Block;true;Do not block based on bandwidth
+Default;Gopher;Permit;true;Do not block based on bandwidth
+Default;Hamachi;Block;true;Do not block based on bandwidth
+Default;Hopster;Block;true;Do not block based on bandwidth
+Default;Hotline Connect;Block;true;Do not block based on bandwidth
+Default;HTTP;Permit;false;Do not block based on bandwidth
+Default;HTTPS;Permit;true;Do not block based on bandwidth
+Default;Hulu;Block;false;Do not block based on bandwidth
+Default;ident;Permit;false;Do not block based on bandwidth
+Default;IMAP;Block;false;Do not block based on bandwidth
+Default;IMVU;Block;true;Do not block based on bandwidth
+Default;Instant Housecall;Block;false;Do not block based on bandwidth
+Default;IRC;Block;true;Do not block based on bandwidth
+Default;iSpQ;Block;false;Do not block based on bandwidth
+Default;iTunes;Block;false;Do not block based on bandwidth
+Default;JAP;Block;true;Do not block based on bandwidth
+Default;JetCast;Block;false;Do not block based on bandwidth
+Default;Joost;Block;false;Do not block based on bandwidth
+Default;LDAP;Permit;false;Do not block based on bandwidth
+Default;Liquid Audio;Block;false;Do not block based on bandwidth
+Default;Live Mesh;Block;false;Do not block based on bandwidth
+Default;LogMeIn;Block;false;Do not block based on bandwidth
+Default;Lotus Notes;Block;false;Do not block based on bandwidth
+Default;Mail.Ru;Block;false;Do not block based on bandwidth
+Default;Meetro;Block;true;Do not block based on bandwidth
+Default;Metacafe;Block;false;Do not block based on bandwidth
+Default;Microsoft HTTPMail;Permit;false;Do not block based on bandwidth
+Default;Mikogo;Block;false;Do not block based on bandwidth
+Default;MindSpring;Block;true;Do not block based on bandwidth
+Default;MSC Messenger;Block;true;Do not block based on bandwidth
+Default;MSN Messenger;Block;true;Do not block based on bandwidth
+Default;MSN Messenger attachments;Block;false;Do not block based on bandwidth
+Default;MyGreenPC;Block;false;Do not block based on bandwidth
+Default;MyIVO;Block;false;Do not block based on bandwidth
+Default;MyPlay;Block;false;Do not block based on bandwidth
+Default;MySpaceIM;Block;true;Do not block based on bandwidth
+Default;MySpace Player;Block;false;Do not block based on bandwidth
+Default;NateOn;Block;true;Do not block based on bandwidth
+Default;NateOn Messenger Attachments;Block;false;Do not block based on bandwidth
+Default;NateOn Remote Access;Block;false;Do not block based on bandwidth
+Default;Neos;Block;true;Do not block based on bandwidth
+Default;Netease Popo;Block;true;Do not block based on bandwidth
+Default;netFM Messenger;Block;false;Do not block based on bandwidth
+Default;NetMeeting;Block;false;Do not block based on bandwidth
+Default;NFS;Permit;false;Do not block based on bandwidth
+Default;Nimbuzz;Block;false;Do not block based on bandwidth
+Default;NNTP;Permit;false;Do not block based on bandwidth
+Default;NTP;Permit;false;Do not block based on bandwidth
+Default;Octoshape;Block;false;Do not block based on bandwidth
+Default;Onshare;Block;true;Do not block based on bandwidth
+Default;OpenWindows;Permit;false;Do not block based on bandwidth
+Default;Opera Unite;Block;false;Do not block based on bandwidth
+Default;Orsiso;Block;false;Do not block based on bandwidth
+Default;Other;Permit;false;Do not block based on bandwidth
+Default;Palringo;Block;false;Do not block based on bandwidth
+Default;Paltalk;Block;true;Do not block based on bandwidth
+Default;Pando;Block;true;Do not block based on bandwidth
+Default;Pandora;Block;false;Do not block based on bandwidth
+Default;pcANYWHERE;Block;false;Do not block based on bandwidth
+Default;pcTELECOMMUTE;Block;false;Do not block based on bandwidth
+Default;PeerCast;Block;false;Do not block based on bandwidth
+Default;POP3;Block;false;Do not block based on bandwidth
+Default;pptp;Block;false;Do not block based on bandwidth
+Default;Project Neon;Block;true;Do not block based on bandwidth
+Default;Qnext;Block;true;Do not block based on bandwidth
+Default;Raketu;Block;true;Do not block based on bandwidth
+Default;RealTunnel;Block;true;Do not block based on bandwidth
+Default;Remote Control PC;Block;false;Do not block based on bandwidth
+Default;Revver;Block;false;Do not block based on bandwidth
+Default;RTSP (QuickTime RealPlayer);Block;false;Do not block based on bandwidth
+Default;ShareNow;Block;false;Do not block based on bandwidth
+Default;SHOUTcast;Block;false;Do not block based on bandwidth
+Default;SIMP (Jabber);Block;true;Do not block based on bandwidth
+Default;Skype;Block;true;Do not block based on bandwidth
+Default;Slingbox;Block;false;Do not block based on bandwidth
+Default;SMTP;Block;false;Do not block based on bandwidth
+Default;Social FM;Block;false;Do not block based on bandwidth
+Default;SOCKS 5;Permit;false;Do not block based on bandwidth
+Default;SocksOnline;Block;true;Do not block based on bandwidth
+Default;SoftEther PacketiX;Block;false;Do not block based on bandwidth
+Default;Solid State Delivery Platform;Block;false;Do not block based on bandwidth
+Default;SoonR;Block;false;Do not block based on bandwidth
+Default;SoulSeek;Block;true;Do not block based on bandwidth
+Default;Spotify;Block;false;Do not block based on bandwidth
+Default;SQL Net;Block;false;Do not block based on bandwidth
+Default;ssh;Block;false;Do not block based on bandwidth
+Default;TeamViewer;Block;false;Do not block based on bandwidth
+Default;Telnet;Block;false;Do not block based on bandwidth
+Default;Tencent QQ (see the Knowledge Base);Block;true;Do not block based on bandwidth
+Default;Terminal Services;Block;false;Do not block based on bandwidth
+Default;TongTongTong;Block;true;Do not block based on bandwidth
+Default;Toonel;Block;true;Do not block based on bandwidth
+Default;Tor;Block;true;Do not block based on bandwidth
+Default;TryFast Messenger;Block;true;Do not block based on bandwidth
+Default;Vimeo;Block;false;Do not block based on bandwidth
+Default;VNC;Block;false;Do not block based on bandwidth
+Default;Voxox;Block;false;Do not block based on bandwidth
+Default;Vyew;Block;false;Do not block based on bandwidth
+Default;VZOchat;Block;true;Do not block based on bandwidth
+Default;WAIS;Permit;true;Do not block based on bandwidth
+Default;WallCooler VPN;Block;false;Do not block based on bandwidth
+Default;Wavago;Block;true;Do not block based on bandwidth
+Default;WebEx (PCNow & Support Center);Block;false;Do not block based on bandwidth
+Default;Wengo;Block;true;Do not block based on bandwidth
+Default;Windows Media;Block;false;Do not block based on bandwidth
+Default;Woize;Block;true;Do not block based on bandwidth
+Default;Xfire;Block;true;Do not block based on bandwidth
+Default;X-IM;Block;true;Do not block based on bandwidth
+Default;Yahoo! Mail Chat;Block;true;Do not block based on bandwidth
+Default;Yahoo! Messenger;Block;true;Do not block based on bandwidth
+Default;Yahoo! Messenger attachments;Block;false;Do not block based on bandwidth
+Default;Your Freedom;Block;true;Do not block based on bandwidth
+Default;YouSendIt;Permit;false;Do not block based on bandwidth
+Default;Yuuguu;Block;false;Do not block based on bandwidth
+Default;Zolved;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;Access Grid;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;Adobe Updater (WSG Only);Block;false;Do not block based on bandwidth
+Block All bar HTTPS;AOL Instant Messenger or ICQ;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;AOL Instant Messenger or ICQ attachments;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;AOL Radio;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Ares;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Badongo Buddy;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Baidu Hi;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;BBC iPlayer;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;BeInSync;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;BitTorrent;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Bot Networks;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;BoxCloud;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Brosix;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Camfrog;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Chikka Messenger;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Citrix;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;ClipMoon;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;ClubBox;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Comodo EasyVPN;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;CrossLoop;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;Dailymotion;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Damaka;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;daytime;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;DirectConnect;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;eDonkey;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Email Borne Worms;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;Eyeball Chat;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;EZPeer;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;FastTrack (Kazaa iMesh);Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Finetune;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;finger;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;FolderShare;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;FTP;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Gadu-Gadu;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;GhostSurf;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;GigaTribe;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Gizmo Project;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Globe7;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Gmail Chat (WSG Only);Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Gnutella (Morpheus Xolox);Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Goober Messenger;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Google Talk;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Google Video;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Google Wave (WSG Only);Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Google Web Accelerator;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Gopher;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Hamachi;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Hopster;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Hotline Connect;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;HTTP;Permit;false;Do not block based on bandwidth
+Block All bar HTTPS;HTTPS;Permit;false;Do not block based on bandwidth
+Block All bar HTTPS;Hulu;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;ident;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;IMAP;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;IMVU;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Instant Housecall;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;IRC;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;iSpQ;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;iTunes;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;JAP;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;JetCast;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Joost;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;LDAP;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;Liquid Audio;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Live Mesh;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;LogMeIn;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;Lotus Notes;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;Mail.Ru;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Meetro;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Metacafe;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Microsoft HTTPMail;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;Mikogo;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;MindSpring;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;MSC Messenger;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;MSN Messenger;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;MSN Messenger attachments;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;MyGreenPC;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;MyIVO;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;MyPlay;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;MySpaceIM;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;MySpace Player;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;NateOn;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;NateOn Messenger Attachments;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;NateOn Remote Access;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;Neos;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Netease Popo;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;netFM Messenger;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;NetMeeting;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;NFS;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;Nimbuzz;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;NNTP;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;NTP;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;Octoshape;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Onshare;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;OpenWindows;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;Opera Unite;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Orsiso;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Other;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;Palringo;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Paltalk;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Pando;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Pandora;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;pcANYWHERE;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;pcTELECOMMUTE;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;PeerCast;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;POP3;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;pptp;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;Project Neon;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Qnext;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Raketu;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;RealTunnel;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Remote Control PC;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;Revver;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;RTSP (QuickTime RealPlayer);Block;true;Do not block based on bandwidth
+Block All bar HTTPS;ShareNow;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;SHOUTcast;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;SIMP (Jabber);Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Skype;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Slingbox;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;SMTP;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;Social FM;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;SOCKS 5;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;SocksOnline;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;SoftEther PacketiX;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;Solid State Delivery Platform;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;SoonR;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;SoulSeek;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Spotify;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;SQL Net;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;ssh;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;TeamViewer;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;Telnet;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;Tencent QQ (see the Knowledge Base);Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Terminal Services;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;TongTongTong;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Toonel;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Tor;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;TryFast Messenger;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Vimeo;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;VNC;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;Voxox;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Vyew;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;VZOchat;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;WAIS;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;WallCooler VPN;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;Wavago;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;WebEx (PCNow & Support Center);Block;false;Do not block based on bandwidth
+Block All bar HTTPS;Wengo;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Windows Media;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Woize;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Xfire;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;X-IM;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Yahoo! Mail Chat;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Yahoo! Messenger;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Yahoo! Messenger attachments;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;Your Freedom;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;YouSendIt;Block;true;Do not block based on bandwidth
+Block All bar HTTPS;Yuuguu;Block;false;Do not block based on bandwidth
+Block All bar HTTPS;Zolved;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;Access Grid;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;Adobe Updater (WSG Only);Block;false;Do not block based on bandwidth
+CallCentre - no internet access;AOL Instant Messenger or ICQ;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;AOL Instant Messenger or ICQ attachments;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;AOL Radio;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Ares;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Badongo Buddy;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Baidu Hi;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;BBC iPlayer;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;BeInSync;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;BitTorrent;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Bot Networks;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;BoxCloud;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Brosix;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Camfrog;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Chikka Messenger;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Citrix;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;ClipMoon;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;ClubBox;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Comodo EasyVPN;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;CrossLoop;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;Dailymotion;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Damaka;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;daytime;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;DirectConnect;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;eDonkey;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Email Borne Worms;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;Eyeball Chat;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;EZPeer;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;FastTrack (Kazaa iMesh);Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Finetune;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;finger;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;FolderShare;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;FTP;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Gadu-Gadu;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;GhostSurf;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;GigaTribe;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Gizmo Project;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Globe7;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Gmail Chat (WSG Only);Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Gnutella (Morpheus Xolox);Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Goober Messenger;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Google Talk;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Google Video;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Google Wave (WSG Only);Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Google Web Accelerator;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Gopher;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Hamachi;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Hopster;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Hotline Connect;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;HTTP;Permit;false;Do not block based on bandwidth
+CallCentre - no internet access;HTTPS;Permit;false;Do not block based on bandwidth
+CallCentre - no internet access;Hulu;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;ident;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;IMAP;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;IMVU;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Instant Housecall;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;IRC;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;iSpQ;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;iTunes;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;JAP;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;JetCast;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Joost;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;LDAP;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;Liquid Audio;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Live Mesh;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;LogMeIn;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;Lotus Notes;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;Mail.Ru;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Meetro;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Metacafe;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Microsoft HTTPMail;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;Mikogo;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;MindSpring;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;MSC Messenger;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;MSN Messenger;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;MSN Messenger attachments;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;MyGreenPC;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;MyIVO;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;MyPlay;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;MySpaceIM;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;MySpace Player;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;NateOn;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;NateOn Messenger Attachments;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;NateOn Remote Access;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;Neos;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Netease Popo;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;netFM Messenger;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;NetMeeting;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;NFS;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;Nimbuzz;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;NNTP;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;NTP;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;Octoshape;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Onshare;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;OpenWindows;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;Opera Unite;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Orsiso;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Other;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;Palringo;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Paltalk;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Pando;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Pandora;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;pcANYWHERE;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;pcTELECOMMUTE;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;PeerCast;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;POP3;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;pptp;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;Project Neon;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Qnext;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Raketu;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;RealTunnel;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Remote Control PC;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;Revver;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;RTSP (QuickTime RealPlayer);Block;true;Do not block based on bandwidth
+CallCentre - no internet access;ShareNow;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;SHOUTcast;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;SIMP (Jabber);Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Skype;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Slingbox;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;SMTP;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;Social FM;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;SOCKS 5;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;SocksOnline;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;SoftEther PacketiX;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;Solid State Delivery Platform;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;SoonR;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;SoulSeek;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Spotify;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;SQL Net;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;ssh;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;TeamViewer;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;Telnet;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;Tencent QQ (see the Knowledge Base);Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Terminal Services;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;TongTongTong;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Toonel;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Tor;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;TryFast Messenger;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Vimeo;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;VNC;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;Voxox;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Vyew;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;VZOchat;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;WAIS;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;WallCooler VPN;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;Wavago;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;WebEx (PCNow & Support Center);Block;false;Do not block based on bandwidth
+CallCentre - no internet access;Wengo;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Windows Media;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Woize;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Xfire;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;X-IM;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Yahoo! Mail Chat;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Yahoo! Messenger;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Yahoo! Messenger attachments;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;Your Freedom;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;YouSendIt;Block;true;Do not block based on bandwidth
+CallCentre - no internet access;Yuuguu;Block;false;Do not block based on bandwidth
+CallCentre - no internet access;Zolved;Block;false;Do not block based on bandwidth
+Default(Copy);Access Grid;Permit;false;Do not block based on bandwidth
+Default(Copy);Adobe Updater (WSG Only);Permit;false;Do not block based on bandwidth
+Default(Copy);AOL Instant Messenger or ICQ;Block;true;Do not block based on bandwidth
+Default(Copy);AOL Instant Messenger or ICQ attachments;Block;false;Do not block based on bandwidth
+Default(Copy);AOL Radio;Block;true;Do not block based on bandwidth
+Default(Copy);Ares;Block;true;Do not block based on bandwidth
+Default(Copy);Badongo Buddy;Block;false;Do not block based on bandwidth
+Default(Copy);Baidu Hi;Block;false;Do not block based on bandwidth
+Default(Copy);BBC iPlayer;Permit;false;Do not block based on bandwidth
+Default(Copy);BeInSync;Block;false;Do not block based on bandwidth
+Default(Copy);BitTorrent;Block;true;Do not block based on bandwidth
+Default(Copy);Bot Networks;Block;false;Do not block based on bandwidth
+Default(Copy);BoxCloud;Block;true;Do not block based on bandwidth
+Default(Copy);Brosix;Block;false;Do not block based on bandwidth
+Default(Copy);Camfrog;Block;true;Do not block based on bandwidth
+Default(Copy);Chikka Messenger;Block;false;Do not block based on bandwidth
+Default(Copy);Citrix;Block;false;Do not block based on bandwidth
+Default(Copy);ClipMoon;Block;false;Do not block based on bandwidth
+Default(Copy);ClubBox;Block;true;Do not block based on bandwidth
+Default(Copy);Comodo EasyVPN;Block;false;Do not block based on bandwidth
+Default(Copy);CrossLoop;Block;false;Do not block based on bandwidth
+Default(Copy);Dailymotion;Block;false;Do not block based on bandwidth
+Default(Copy);Damaka;Block;true;Do not block based on bandwidth
+Default(Copy);daytime;Permit;false;Do not block based on bandwidth
+Default(Copy);DirectConnect;Block;true;Do not block based on bandwidth
+Default(Copy);eDonkey;Block;true;Do not block based on bandwidth
+Default(Copy);Email Borne Worms;Permit;false;Do not block based on bandwidth
+Default(Copy);Eyeball Chat;Block;true;Do not block based on bandwidth
+Default(Copy);EZPeer;Block;true;Do not block based on bandwidth
+Default(Copy);FastTrack (Kazaa iMesh);Block;true;Do not block based on bandwidth
+Default(Copy);Finetune;Block;false;Do not block based on bandwidth
+Default(Copy);finger;Permit;false;Do not block based on bandwidth
+Default(Copy);FolderShare;Block;true;Do not block based on bandwidth
+Default(Copy);FTP;Permit;true;Do not block based on bandwidth
+Default(Copy);Gadu-Gadu;Block;true;Do not block based on bandwidth
+Default(Copy);GhostSurf;Block;true;Do not block based on bandwidth
+Default(Copy);GigaTribe;Block;true;Do not block based on bandwidth
+Default(Copy);Gizmo Project;Block;true;Do not block based on bandwidth
+Default(Copy);Globe7;Block;false;Do not block based on bandwidth
+Default(Copy);Gmail Chat (WSG Only);Block;true;Do not block based on bandwidth
+Default(Copy);Gnutella (Morpheus Xolox);Block;false;Do not block based on bandwidth
+Default(Copy);Goober Messenger;Block;false;Do not block based on bandwidth
+Default(Copy);Google Talk;Block;true;Do not block based on bandwidth
+Default(Copy);Google Video;Block;false;Do not block based on bandwidth
+Default(Copy);Google Wave (WSG Only);Block;false;Do not block based on bandwidth
+Default(Copy);Google Web Accelerator;Block;true;Do not block based on bandwidth
+Default(Copy);Gopher;Permit;true;Do not block based on bandwidth
+Default(Copy);Hamachi;Block;true;Do not block based on bandwidth
+Default(Copy);Hopster;Block;true;Do not block based on bandwidth
+Default(Copy);Hotline Connect;Block;true;Do not block based on bandwidth
+Default(Copy);HTTP;Permit;false;Do not block based on bandwidth
+Default(Copy);HTTPS;Permit;true;Do not block based on bandwidth
+Default(Copy);Hulu;Block;false;Do not block based on bandwidth
+Default(Copy);ident;Permit;false;Do not block based on bandwidth
+Default(Copy);IMAP;Permit;false;Do not block based on bandwidth
+Default(Copy);IMVU;Block;true;Do not block based on bandwidth
+Default(Copy);Instant Housecall;Block;false;Do not block based on bandwidth
+Default(Copy);IRC;Block;true;Do not block based on bandwidth
+Default(Copy);iSpQ;Block;false;Do not block based on bandwidth
+Default(Copy);iTunes;Block;false;Do not block based on bandwidth
+Default(Copy);JAP;Block;true;Do not block based on bandwidth
+Default(Copy);JetCast;Block;false;Do not block based on bandwidth
+Default(Copy);Joost;Block;false;Do not block based on bandwidth
+Default(Copy);LDAP;Permit;false;Do not block based on bandwidth
+Default(Copy);Liquid Audio;Block;false;Do not block based on bandwidth
+Default(Copy);Live Mesh;Block;false;Do not block based on bandwidth
+Default(Copy);LogMeIn;Block;false;Do not block based on bandwidth
+Default(Copy);Lotus Notes;Permit;false;Do not block based on bandwidth
+Default(Copy);Mail.Ru;Block;false;Do not block based on bandwidth
+Default(Copy);Meetro;Block;true;Do not block based on bandwidth
+Default(Copy);Metacafe;Block;false;Do not block based on bandwidth
+Default(Copy);Microsoft HTTPMail;Permit;false;Do not block based on bandwidth
+Default(Copy);Mikogo;Block;false;Do not block based on bandwidth
+Default(Copy);MindSpring;Block;true;Do not block based on bandwidth
+Default(Copy);MSC Messenger;Block;true;Do not block based on bandwidth
+Default(Copy);MSN Messenger;Block;true;Do not block based on bandwidth
+Default(Copy);MSN Messenger attachments;Block;false;Do not block based on bandwidth
+Default(Copy);MyGreenPC;Permit;false;Do not block based on bandwidth
+Default(Copy);MyIVO;Block;false;Do not block based on bandwidth
+Default(Copy);MyPlay;Block;false;Do not block based on bandwidth
+Default(Copy);MySpaceIM;Block;true;Do not block based on bandwidth
+Default(Copy);MySpace Player;Permit;false;Do not block based on bandwidth
+Default(Copy);NateOn;Block;true;Do not block based on bandwidth
+Default(Copy);NateOn Messenger Attachments;Block;false;Do not block based on bandwidth
+Default(Copy);NateOn Remote Access;Block;false;Do not block based on bandwidth
+Default(Copy);Neos;Block;true;Do not block based on bandwidth
+Default(Copy);Netease Popo;Block;true;Do not block based on bandwidth
+Default(Copy);netFM Messenger;Block;false;Do not block based on bandwidth
+Default(Copy);NetMeeting;Permit;false;Do not block based on bandwidth
+Default(Copy);NFS;Permit;false;Do not block based on bandwidth
+Default(Copy);Nimbuzz;Block;false;Do not block based on bandwidth
+Default(Copy);NNTP;Permit;false;Do not block based on bandwidth
+Default(Copy);NTP;Permit;false;Do not block based on bandwidth
+Default(Copy);Octoshape;Block;false;Do not block based on bandwidth
+Default(Copy);Onshare;Block;true;Do not block based on bandwidth
+Default(Copy);OpenWindows;Permit;false;Do not block based on bandwidth
+Default(Copy);Opera Unite;Block;false;Do not block based on bandwidth
+Default(Copy);Orsiso;Block;false;Do not block based on bandwidth
+Default(Copy);Other;Permit;false;Do not block based on bandwidth
+Default(Copy);Palringo;Block;false;Do not block based on bandwidth
+Default(Copy);Paltalk;Block;true;Do not block based on bandwidth
+Default(Copy);Pando;Block;true;Do not block based on bandwidth
+Default(Copy);Pandora;Block;false;Do not block based on bandwidth
+Default(Copy);pcANYWHERE;Block;false;Do not block based on bandwidth
+Default(Copy);pcTELECOMMUTE;Block;false;Do not block based on bandwidth
+Default(Copy);PeerCast;Block;false;Do not block based on bandwidth
+Default(Copy);POP3;Permit;false;Do not block based on bandwidth
+Default(Copy);pptp;Block;false;Do not block based on bandwidth
+Default(Copy);Project Neon;Block;true;Do not block based on bandwidth
+Default(Copy);Qnext;Block;true;Do not block based on bandwidth
+Default(Copy);Raketu;Block;true;Do not block based on bandwidth
+Default(Copy);RealTunnel;Block;true;Do not block based on bandwidth
+Default(Copy);Remote Control PC;Permit;false;Do not block based on bandwidth
+Default(Copy);Revver;Block;false;Do not block based on bandwidth
+Default(Copy);RTSP (QuickTime RealPlayer);Block;false;Do not block based on bandwidth
+Default(Copy);ShareNow;Block;false;Do not block based on bandwidth
+Default(Copy);SHOUTcast;Block;false;Do not block based on bandwidth
+Default(Copy);SIMP (Jabber);Block;true;Do not block based on bandwidth
+Default(Copy);Skype;Block;true;Do not block based on bandwidth
+Default(Copy);Slingbox;Block;false;Do not block based on bandwidth
+Default(Copy);SMTP;Permit;false;Do not block based on bandwidth
+Default(Copy);Social FM;Block;false;Do not block based on bandwidth
+Default(Copy);SOCKS 5;Permit;false;Do not block based on bandwidth
+Default(Copy);SocksOnline;Block;true;Do not block based on bandwidth
+Default(Copy);SoftEther PacketiX;Block;false;Do not block based on bandwidth
+Default(Copy);Solid State Delivery Platform;Block;false;Do not block based on bandwidth
+Default(Copy);SoonR;Block;false;Do not block based on bandwidth
+Default(Copy);SoulSeek;Block;true;Do not block based on bandwidth
+Default(Copy);Spotify;Block;false;Do not block based on bandwidth
+Default(Copy);SQL Net;Permit;false;Do not block based on bandwidth
+Default(Copy);ssh;Block;false;Do not block based on bandwidth
+Default(Copy);TeamViewer;Block;false;Do not block based on bandwidth
+Default(Copy);Telnet;Block;false;Do not block based on bandwidth
+Default(Copy);Tencent QQ (see the Knowledge Base);Block;true;Do not block based on bandwidth
+Default(Copy);Terminal Services;Block;false;Do not block based on bandwidth
+Default(Copy);TongTongTong;Block;true;Do not block based on bandwidth
+Default(Copy);Toonel;Block;true;Do not block based on bandwidth
+Default(Copy);Tor;Block;true;Do not block based on bandwidth
+Default(Copy);TryFast Messenger;Block;true;Do not block based on bandwidth
+Default(Copy);Vimeo;Block;false;Do not block based on bandwidth
+Default(Copy);VNC;Block;false;Do not block based on bandwidth
+Default(Copy);Voxox;Block;false;Do not block based on bandwidth
+Default(Copy);Vyew;Block;false;Do not block based on bandwidth
+Default(Copy);VZOchat;Block;true;Do not block based on bandwidth
+Default(Copy);WAIS;Permit;true;Do not block based on bandwidth
+Default(Copy);WallCooler VPN;Block;false;Do not block based on bandwidth
+Default(Copy);Wavago;Block;true;Do not block based on bandwidth
+Default(Copy);WebEx (PCNow & Support Center);Block;false;Do not block based on bandwidth
+Default(Copy);Wengo;Block;true;Do not block based on bandwidth
+Default(Copy);Windows Media;Block;false;Do not block based on bandwidth
+Default(Copy);Woize;Block;true;Do not block based on bandwidth
+Default(Copy);Xfire;Block;true;Do not block based on bandwidth
+Default(Copy);X-IM;Block;true;Do not block based on bandwidth
+Default(Copy);Yahoo! Mail Chat;Block;true;Do not block based on bandwidth
+Default(Copy);Yahoo! Messenger;Block;true;Do not block based on bandwidth
+Default(Copy);Yahoo! Messenger attachments;Block;false;Do not block based on bandwidth
+Default(Copy);Your Freedom;Block;true;Do not block based on bandwidth
+Default(Copy);YouSendIt;Permit;false;Do not block based on bandwidth
+Default(Copy);Yuuguu;Block;false;Do not block based on bandwidth
+Default(Copy);Zolved;Block;false;Do not block based on bandwidth
+Full Accesss;Access Grid;Block;false;Do not block based on bandwidth
+Full Accesss;Adobe Updater (WSG Only);Permit;false;Do not block based on bandwidth
+Full Accesss;AOL Instant Messenger or ICQ;Block;false;Do not block based on bandwidth
+Full Accesss;AOL Instant Messenger or ICQ attachments;Block;false;Do not block based on bandwidth
+Full Accesss;AOL Radio;Permit;false;Do not block based on bandwidth
+Full Accesss;Ares;Block;false;Do not block based on bandwidth
+Full Accesss;Badongo Buddy;Block;false;Do not block based on bandwidth
+Full Accesss;Baidu Hi;Block;false;Do not block based on bandwidth
+Full Accesss;BBC iPlayer;Permit;false;Do not block based on bandwidth
+Full Accesss;BeInSync;Block;false;Do not block based on bandwidth
+Full Accesss;BitTorrent;Block;false;Do not block based on bandwidth
+Full Accesss;Bot Networks;Block;false;Do not block based on bandwidth
+Full Accesss;BoxCloud;Block;false;Do not block based on bandwidth
+Full Accesss;Brosix;Block;false;Do not block based on bandwidth
+Full Accesss;Camfrog;Block;false;Do not block based on bandwidth
+Full Accesss;Chikka Messenger;Block;false;Do not block based on bandwidth
+Full Accesss;Citrix;Block;false;Do not block based on bandwidth
+Full Accesss;ClipMoon;Permit;false;Do not block based on bandwidth
+Full Accesss;ClubBox;Block;false;Do not block based on bandwidth
+Full Accesss;Comodo EasyVPN;Block;false;Do not block based on bandwidth
+Full Accesss;CrossLoop;Block;false;Do not block based on bandwidth
+Full Accesss;Dailymotion;Permit;false;Do not block based on bandwidth
+Full Accesss;Damaka;Block;false;Do not block based on bandwidth
+Full Accesss;daytime;Permit;false;Do not block based on bandwidth
+Full Accesss;DirectConnect;Block;false;Do not block based on bandwidth
+Full Accesss;eDonkey;Block;false;Do not block based on bandwidth
+Full Accesss;Email Borne Worms;Block;false;Do not block based on bandwidth
+Full Accesss;Eyeball Chat;Block;false;Do not block based on bandwidth
+Full Accesss;EZPeer;Block;false;Do not block based on bandwidth
+Full Accesss;FastTrack (Kazaa iMesh);Block;false;Do not block based on bandwidth
+Full Accesss;Finetune;Permit;false;Do not block based on bandwidth
+Full Accesss;finger;Permit;false;Do not block based on bandwidth
+Full Accesss;FolderShare;Block;false;Do not block based on bandwidth
+Full Accesss;FTP;Permit;false;Do not block based on bandwidth
+Full Accesss;Gadu-Gadu;Block;false;Do not block based on bandwidth
+Full Accesss;GhostSurf;Block;false;Do not block based on bandwidth
+Full Accesss;GigaTribe;Block;false;Do not block based on bandwidth
+Full Accesss;Gizmo Project;Block;false;Do not block based on bandwidth
+Full Accesss;Globe7;Block;false;Do not block based on bandwidth
+Full Accesss;Gmail Chat (WSG Only);Block;false;Do not block based on bandwidth
+Full Accesss;Gnutella (Morpheus Xolox);Block;false;Do not block based on bandwidth
+Full Accesss;Goober Messenger;Block;false;Do not block based on bandwidth
+Full Accesss;Google Talk;Block;false;Do not block based on bandwidth
+Full Accesss;Google Video;Permit;false;Do not block based on bandwidth
+Full Accesss;Google Wave (WSG Only);Block;false;Do not block based on bandwidth
+Full Accesss;Google Web Accelerator;Block;false;Do not block based on bandwidth
+Full Accesss;Gopher;Block;false;Do not block based on bandwidth
+Full Accesss;Hamachi;Block;false;Do not block based on bandwidth
+Full Accesss;Hopster;Block;false;Do not block based on bandwidth
+Full Accesss;Hotline Connect;Block;false;Do not block based on bandwidth
+Full Accesss;HTTP;Permit;false;Do not block based on bandwidth
+Full Accesss;HTTPS;Permit;false;Do not block based on bandwidth
+Full Accesss;Hulu;Permit;false;Do not block based on bandwidth
+Full Accesss;ident;Permit;false;Do not block based on bandwidth
+Full Accesss;IMAP;Permit;false;Do not block based on bandwidth
+Full Accesss;IMVU;Block;false;Do not block based on bandwidth
+Full Accesss;Instant Housecall;Block;false;Do not block based on bandwidth
+Full Accesss;IRC;Block;false;Do not block based on bandwidth
+Full Accesss;iSpQ;Block;false;Do not block based on bandwidth
+Full Accesss;iTunes;Permit;false;Do not block based on bandwidth
+Full Accesss;JAP;Block;false;Do not block based on bandwidth
+Full Accesss;JetCast;Permit;false;Do not block based on bandwidth
+Full Accesss;Joost;Permit;false;Do not block based on bandwidth
+Full Accesss;LDAP;Permit;false;Do not block based on bandwidth
+Full Accesss;Liquid Audio;Permit;false;Do not block based on bandwidth
+Full Accesss;Live Mesh;Block;false;Do not block based on bandwidth
+Full Accesss;LogMeIn;Block;false;Do not block based on bandwidth
+Full Accesss;Lotus Notes;Permit;false;Do not block based on bandwidth
+Full Accesss;Mail.Ru;Block;false;Do not block based on bandwidth
+Full Accesss;Meetro;Block;false;Do not block based on bandwidth
+Full Accesss;Metacafe;Permit;false;Do not block based on bandwidth
+Full Accesss;Microsoft HTTPMail;Permit;false;Do not block based on bandwidth
+Full Accesss;Mikogo;Block;false;Do not block based on bandwidth
+Full Accesss;MindSpring;Block;false;Do not block based on bandwidth
+Full Accesss;MSC Messenger;Block;false;Do not block based on bandwidth
+Full Accesss;MSN Messenger;Block;false;Do not block based on bandwidth
+Full Accesss;MSN Messenger attachments;Block;false;Do not block based on bandwidth
+Full Accesss;MyGreenPC;Block;false;Do not block based on bandwidth
+Full Accesss;MyIVO;Block;false;Do not block based on bandwidth
+Full Accesss;MyPlay;Permit;false;Do not block based on bandwidth
+Full Accesss;MySpaceIM;Block;false;Do not block based on bandwidth
+Full Accesss;MySpace Player;Permit;false;Do not block based on bandwidth
+Full Accesss;NateOn;Block;false;Do not block based on bandwidth
+Full Accesss;NateOn Messenger Attachments;Block;false;Do not block based on bandwidth
+Full Accesss;NateOn Remote Access;Block;false;Do not block based on bandwidth
+Full Accesss;Neos;Block;false;Do not block based on bandwidth
+Full Accesss;Netease Popo;Block;false;Do not block based on bandwidth
+Full Accesss;netFM Messenger;Block;false;Do not block based on bandwidth
+Full Accesss;NetMeeting;Permit;false;Do not block based on bandwidth
+Full Accesss;NFS;Permit;false;Do not block based on bandwidth
+Full Accesss;Nimbuzz;Block;false;Do not block based on bandwidth
+Full Accesss;NNTP;Permit;false;Do not block based on bandwidth
+Full Accesss;NTP;Permit;false;Do not block based on bandwidth
+Full Accesss;Octoshape;Permit;false;Do not block based on bandwidth
+Full Accesss;Onshare;Block;false;Do not block based on bandwidth
+Full Accesss;OpenWindows;Permit;false;Do not block based on bandwidth
+Full Accesss;Opera Unite;Block;false;Do not block based on bandwidth
+Full Accesss;Orsiso;Block;false;Do not block based on bandwidth
+Full Accesss;Other;Block;false;Do not block based on bandwidth
+Full Accesss;Palringo;Block;false;Do not block based on bandwidth
+Full Accesss;Paltalk;Block;false;Do not block based on bandwidth
+Full Accesss;Pando;Block;false;Do not block based on bandwidth
+Full Accesss;Pandora;Permit;false;Do not block based on bandwidth
+Full Accesss;pcANYWHERE;Block;false;Do not block based on bandwidth
+Full Accesss;pcTELECOMMUTE;Block;false;Do not block based on bandwidth
+Full Accesss;PeerCast;Permit;false;Do not block based on bandwidth
+Full Accesss;POP3;Permit;false;Do not block based on bandwidth
+Full Accesss;pptp;Block;false;Do not block based on bandwidth
+Full Accesss;Project Neon;Block;false;Do not block based on bandwidth
+Full Accesss;Qnext;Block;false;Do not block based on bandwidth
+Full Accesss;Raketu;Block;false;Do not block based on bandwidth
+Full Accesss;RealTunnel;Block;false;Do not block based on bandwidth
+Full Accesss;Remote Control PC;Block;false;Do not block based on bandwidth
+Full Accesss;Revver;Permit;false;Do not block based on bandwidth
+Full Accesss;RTSP (QuickTime RealPlayer);Permit;false;Do not block based on bandwidth
+Full Accesss;ShareNow;Block;false;Do not block based on bandwidth
+Full Accesss;SHOUTcast;Permit;false;Do not block based on bandwidth
+Full Accesss;SIMP (Jabber);Block;false;Do not block based on bandwidth
+Full Accesss;Skype;Block;false;Do not block based on bandwidth
+Full Accesss;Slingbox;Permit;false;Do not block based on bandwidth
+Full Accesss;SMTP;Permit;false;Do not block based on bandwidth
+Full Accesss;Social FM;Permit;false;Do not block based on bandwidth
+Full Accesss;SOCKS 5;Permit;false;Do not block based on bandwidth
+Full Accesss;SocksOnline;Block;false;Do not block based on bandwidth
+Full Accesss;SoftEther PacketiX;Block;false;Do not block based on bandwidth
+Full Accesss;Solid State Delivery Platform;Block;false;Do not block based on bandwidth
+Full Accesss;SoonR;Block;false;Do not block based on bandwidth
+Full Accesss;SoulSeek;Block;false;Do not block based on bandwidth
+Full Accesss;Spotify;Permit;false;Do not block based on bandwidth
+Full Accesss;SQL Net;Block;false;Do not block based on bandwidth
+Full Accesss;ssh;Block;false;Do not block based on bandwidth
+Full Accesss;TeamViewer;Block;false;Do not block based on bandwidth
+Full Accesss;Telnet;Block;false;Do not block based on bandwidth
+Full Accesss;Tencent QQ (see the Knowledge Base);Block;false;Do not block based on bandwidth
+Full Accesss;Terminal Services;Block;false;Do not block based on bandwidth
+Full Accesss;TongTongTong;Block;false;Do not block based on bandwidth
+Full Accesss;Toonel;Block;false;Do not block based on bandwidth
+Full Accesss;Tor;Block;false;Do not block based on bandwidth
+Full Accesss;TryFast Messenger;Block;false;Do not block based on bandwidth
+Full Accesss;Vimeo;Permit;false;Do not block based on bandwidth
+Full Accesss;VNC;Block;false;Do not block based on bandwidth
+Full Accesss;Voxox;Block;false;Do not block based on bandwidth
+Full Accesss;Vyew;Block;false;Do not block based on bandwidth
+Full Accesss;VZOchat;Block;false;Do not block based on bandwidth
+Full Accesss;WAIS;Block;false;Do not block based on bandwidth
+Full Accesss;WallCooler VPN;Block;false;Do not block based on bandwidth
+Full Accesss;Wavago;Block;false;Do not block based on bandwidth
+Full Accesss;WebEx (PCNow & Support Center);Block;false;Do not block based on bandwidth
+Full Accesss;Wengo;Block;false;Do not block based on bandwidth
+Full Accesss;Windows Media;Permit;false;Do not block based on bandwidth
+Full Accesss;Woize;Block;false;Do not block based on bandwidth
+Full Accesss;Xfire;Block;false;Do not block based on bandwidth
+Full Accesss;X-IM;Block;false;Do not block based on bandwidth
+Full Accesss;Yahoo! Mail Chat;Block;false;Do not block based on bandwidth
+Full Accesss;Yahoo! Messenger;Block;false;Do not block based on bandwidth
+Full Accesss;Yahoo! Messenger attachments;Block;false;Do not block based on bandwidth
+Full Accesss;Your Freedom;Block;false;Do not block based on bandwidth
+Full Accesss;YouSendIt;Block;false;Do not block based on bandwidth
+Full Accesss;Yuuguu;Block;false;Do not block based on bandwidth
+Full Accesss;Zolved;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;Access Grid;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;Adobe Updater (WSG Only);Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;AOL Instant Messenger or ICQ;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;AOL Instant Messenger or ICQ attachments;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;AOL Radio;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Ares;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Badongo Buddy;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Baidu Hi;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;BBC iPlayer;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;BeInSync;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;BitTorrent;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Bot Networks;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;BoxCloud;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Brosix;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Camfrog;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Chikka Messenger;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Citrix;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;ClipMoon;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;ClubBox;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Comodo EasyVPN;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;CrossLoop;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;Dailymotion;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Damaka;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;daytime;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;DirectConnect;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;eDonkey;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Email Borne Worms;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;Eyeball Chat;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;EZPeer;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;FastTrack (Kazaa iMesh);Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Finetune;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;finger;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;FolderShare;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;FTP;Permit;true;Do not block based on bandwidth
+HTTPS and FTP Access;Gadu-Gadu;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;GhostSurf;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;GigaTribe;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Gizmo Project;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Globe7;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Gmail Chat (WSG Only);Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Gnutella (Morpheus Xolox);Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Goober Messenger;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Google Talk;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Google Video;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Google Wave (WSG Only);Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Google Web Accelerator;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Gopher;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Hamachi;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Hopster;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Hotline Connect;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;HTTP;Permit;false;Do not block based on bandwidth
+HTTPS and FTP Access;HTTPS;Permit;false;Do not block based on bandwidth
+HTTPS and FTP Access;Hulu;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;ident;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;IMAP;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;IMVU;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Instant Housecall;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;IRC;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;iSpQ;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;iTunes;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;JAP;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;JetCast;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Joost;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;LDAP;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;Liquid Audio;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Live Mesh;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;LogMeIn;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;Lotus Notes;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;Mail.Ru;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Meetro;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Metacafe;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Microsoft HTTPMail;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;Mikogo;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;MindSpring;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;MSC Messenger;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;MSN Messenger;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;MSN Messenger attachments;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;MyGreenPC;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;MyIVO;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;MyPlay;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;MySpaceIM;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;MySpace Player;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;NateOn;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;NateOn Messenger Attachments;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;NateOn Remote Access;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;Neos;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Netease Popo;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;netFM Messenger;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;NetMeeting;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;NFS;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;Nimbuzz;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;NNTP;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;NTP;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;Octoshape;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Onshare;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;OpenWindows;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;Opera Unite;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Orsiso;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Other;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;Palringo;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Paltalk;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Pando;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Pandora;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;pcANYWHERE;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;pcTELECOMMUTE;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;PeerCast;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;POP3;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;pptp;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;Project Neon;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Qnext;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Raketu;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;RealTunnel;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Remote Control PC;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;Revver;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;RTSP (QuickTime RealPlayer);Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;ShareNow;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;SHOUTcast;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;SIMP (Jabber);Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Skype;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Slingbox;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;SMTP;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;Social FM;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;SOCKS 5;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;SocksOnline;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;SoftEther PacketiX;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;Solid State Delivery Platform;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;SoonR;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;SoulSeek;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Spotify;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;SQL Net;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;ssh;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;TeamViewer;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;Telnet;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;Tencent QQ (see the Knowledge Base);Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Terminal Services;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;TongTongTong;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Toonel;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Tor;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;TryFast Messenger;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Vimeo;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;VNC;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;Voxox;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Vyew;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;VZOchat;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;WAIS;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;WallCooler VPN;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;Wavago;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;WebEx (PCNow & Support Center);Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;Wengo;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Windows Media;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Woize;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Xfire;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;X-IM;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Yahoo! Mail Chat;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Yahoo! Messenger;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Yahoo! Messenger attachments;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;Your Freedom;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;YouSendIt;Block;true;Do not block based on bandwidth
+HTTPS and FTP Access;Yuuguu;Block;false;Do not block based on bandwidth
+HTTPS and FTP Access;Zolved;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Access Grid;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Adobe Updater (WSG Only);Block;false;Do not block based on bandwidth
+Merchandising and Marketing;AOL Instant Messenger or ICQ;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;AOL Instant Messenger or ICQ attachments;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;AOL Radio;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Ares;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Badongo Buddy;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Baidu Hi;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;BBC iPlayer;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;BeInSync;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;BitTorrent;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Bot Networks;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;BoxCloud;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Brosix;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Camfrog;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Chikka Messenger;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Citrix;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;ClipMoon;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;ClubBox;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Comodo EasyVPN;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;CrossLoop;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Dailymotion;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Damaka;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;daytime;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;DirectConnect;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;eDonkey;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Email Borne Worms;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Eyeball Chat;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;EZPeer;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;FastTrack (Kazaa iMesh);Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Finetune;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;finger;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;FolderShare;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;FTP;Permit;true;Do not block based on bandwidth
+Merchandising and Marketing;Gadu-Gadu;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;GhostSurf;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;GigaTribe;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Gizmo Project;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Globe7;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Gmail Chat (WSG Only);Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Gnutella (Morpheus Xolox);Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Goober Messenger;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Google Talk;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Google Video;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Google Wave (WSG Only);Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Google Web Accelerator;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Gopher;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Hamachi;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Hopster;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Hotline Connect;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;HTTP;Permit;false;Do not block based on bandwidth
+Merchandising and Marketing;HTTPS;Permit;true;Do not block based on bandwidth
+Merchandising and Marketing;Hulu;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;ident;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;IMAP;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;IMVU;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Instant Housecall;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;IRC;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;iSpQ;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;iTunes;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;JAP;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;JetCast;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Joost;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;LDAP;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Liquid Audio;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Live Mesh;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;LogMeIn;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Lotus Notes;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Mail.Ru;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Meetro;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Metacafe;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Microsoft HTTPMail;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Mikogo;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;MindSpring;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;MSC Messenger;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;MSN Messenger;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;MSN Messenger attachments;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;MyGreenPC;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;MyIVO;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;MyPlay;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;MySpaceIM;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;MySpace Player;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;NateOn;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;NateOn Messenger Attachments;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;NateOn Remote Access;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Neos;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Netease Popo;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;netFM Messenger;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;NetMeeting;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;NFS;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Nimbuzz;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;NNTP;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;NTP;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Octoshape;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Onshare;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;OpenWindows;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Opera Unite;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Orsiso;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Other;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Palringo;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Paltalk;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Pando;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Pandora;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;pcANYWHERE;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;pcTELECOMMUTE;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;PeerCast;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;POP3;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;pptp;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Project Neon;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Qnext;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Raketu;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;RealTunnel;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Remote Control PC;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Revver;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;RTSP (QuickTime RealPlayer);Block;true;Do not block based on bandwidth
+Merchandising and Marketing;ShareNow;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;SHOUTcast;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;SIMP (Jabber);Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Skype;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Slingbox;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;SMTP;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Social FM;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;SOCKS 5;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;SocksOnline;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;SoftEther PacketiX;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Solid State Delivery Platform;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;SoonR;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;SoulSeek;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Spotify;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;SQL Net;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;ssh;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;TeamViewer;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Telnet;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Tencent QQ (see the Knowledge Base);Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Terminal Services;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;TongTongTong;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Toonel;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Tor;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;TryFast Messenger;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Vimeo;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;VNC;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Voxox;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Vyew;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;VZOchat;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;WAIS;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;WallCooler VPN;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Wavago;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;WebEx (PCNow & Support Center);Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Wengo;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Windows Media;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Woize;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Xfire;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;X-IM;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Yahoo! Mail Chat;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Yahoo! Messenger;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Yahoo! Messenger attachments;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Your Freedom;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;YouSendIt;Block;true;Do not block based on bandwidth
+Merchandising and Marketing;Yuuguu;Block;false;Do not block based on bandwidth
+Merchandising and Marketing;Zolved;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Access Grid;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Adobe Updater (WSG Only);Block;false;Do not block based on bandwidth
+Merchandising no streaming media;AOL Instant Messenger or ICQ;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;AOL Instant Messenger or ICQ attachments;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;AOL Radio;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Ares;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Badongo Buddy;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Baidu Hi;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;BBC iPlayer;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;BeInSync;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;BitTorrent;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Bot Networks;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;BoxCloud;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Brosix;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Camfrog;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Chikka Messenger;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Citrix;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;ClipMoon;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;ClubBox;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Comodo EasyVPN;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;CrossLoop;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Dailymotion;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Damaka;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;daytime;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;DirectConnect;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;eDonkey;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Email Borne Worms;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Eyeball Chat;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;EZPeer;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;FastTrack (Kazaa iMesh);Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Finetune;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;finger;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;FolderShare;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;FTP;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Gadu-Gadu;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;GhostSurf;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;GigaTribe;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Gizmo Project;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Globe7;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Gmail Chat (WSG Only);Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Gnutella (Morpheus Xolox);Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Goober Messenger;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Google Talk;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Google Video;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Google Wave (WSG Only);Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Google Web Accelerator;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Gopher;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Hamachi;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Hopster;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Hotline Connect;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;HTTP;Permit;false;Do not block based on bandwidth
+Merchandising no streaming media;HTTPS;Permit;true;Do not block based on bandwidth
+Merchandising no streaming media;Hulu;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;ident;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;IMAP;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;IMVU;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Instant Housecall;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;IRC;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;iSpQ;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;iTunes;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;JAP;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;JetCast;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Joost;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;LDAP;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Liquid Audio;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Live Mesh;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;LogMeIn;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Lotus Notes;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Mail.Ru;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Meetro;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Metacafe;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Microsoft HTTPMail;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Mikogo;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;MindSpring;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;MSC Messenger;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;MSN Messenger;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;MSN Messenger attachments;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;MyGreenPC;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;MyIVO;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;MyPlay;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;MySpaceIM;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;MySpace Player;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;NateOn;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;NateOn Messenger Attachments;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;NateOn Remote Access;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Neos;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Netease Popo;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;netFM Messenger;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;NetMeeting;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;NFS;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Nimbuzz;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;NNTP;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;NTP;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Octoshape;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Onshare;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;OpenWindows;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Opera Unite;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Orsiso;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Other;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Palringo;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Paltalk;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Pando;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Pandora;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;pcANYWHERE;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;pcTELECOMMUTE;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;PeerCast;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;POP3;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;pptp;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Project Neon;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Qnext;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Raketu;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;RealTunnel;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Remote Control PC;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Revver;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;RTSP (QuickTime RealPlayer);Block;true;Do not block based on bandwidth
+Merchandising no streaming media;ShareNow;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;SHOUTcast;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;SIMP (Jabber);Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Skype;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Slingbox;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;SMTP;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Social FM;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;SOCKS 5;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;SocksOnline;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;SoftEther PacketiX;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Solid State Delivery Platform;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;SoonR;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;SoulSeek;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Spotify;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;SQL Net;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;ssh;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;TeamViewer;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Telnet;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Tencent QQ (see the Knowledge Base);Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Terminal Services;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;TongTongTong;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Toonel;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Tor;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;TryFast Messenger;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Vimeo;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;VNC;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Voxox;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Vyew;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;VZOchat;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;WAIS;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;WallCooler VPN;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Wavago;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;WebEx (PCNow & Support Center);Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Wengo;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Windows Media;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Woize;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Xfire;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;X-IM;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Yahoo! Mail Chat;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Yahoo! Messenger;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Yahoo! Messenger attachments;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Your Freedom;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;YouSendIt;Block;true;Do not block based on bandwidth
+Merchandising no streaming media;Yuuguu;Block;false;Do not block based on bandwidth
+Merchandising no streaming media;Zolved;Block;false;Do not block based on bandwidth
+Monitor Only;Access Grid;Permit;false;Do not block based on bandwidth
+Monitor Only;Adobe Updater (WSG Only);Permit;false;Do not block based on bandwidth
+Monitor Only;AOL Instant Messenger or ICQ;Permit;true;Do not block based on bandwidth
+Monitor Only;AOL Instant Messenger or ICQ attachments;Permit;false;Do not block based on bandwidth
+Monitor Only;AOL Radio;Permit;true;Do not block based on bandwidth
+Monitor Only;Ares;Permit;true;Do not block based on bandwidth
+Monitor Only;Badongo Buddy;Permit;false;Do not block based on bandwidth
+Monitor Only;Baidu Hi;Permit;false;Do not block based on bandwidth
+Monitor Only;BBC iPlayer;Permit;false;Do not block based on bandwidth
+Monitor Only;BeInSync;Permit;false;Do not block based on bandwidth
+Monitor Only;BitTorrent;Permit;true;Do not block based on bandwidth
+Monitor Only;Bot Networks;Permit;false;Do not block based on bandwidth
+Monitor Only;BoxCloud;Permit;true;Do not block based on bandwidth
+Monitor Only;Brosix;Permit;false;Do not block based on bandwidth
+Monitor Only;Camfrog;Permit;true;Do not block based on bandwidth
+Monitor Only;Chikka Messenger;Permit;false;Do not block based on bandwidth
+Monitor Only;Citrix;Permit;false;Do not block based on bandwidth
+Monitor Only;ClipMoon;Permit;false;Do not block based on bandwidth
+Monitor Only;ClubBox;Permit;true;Do not block based on bandwidth
+Monitor Only;Comodo EasyVPN;Permit;false;Do not block based on bandwidth
+Monitor Only;CrossLoop;Permit;false;Do not block based on bandwidth
+Monitor Only;Dailymotion;Permit;false;Do not block based on bandwidth
+Monitor Only;Damaka;Permit;true;Do not block based on bandwidth
+Monitor Only;daytime;Permit;false;Do not block based on bandwidth
+Monitor Only;DirectConnect;Permit;true;Do not block based on bandwidth
+Monitor Only;eDonkey;Permit;true;Do not block based on bandwidth
+Monitor Only;Email Borne Worms;Permit;false;Do not block based on bandwidth
+Monitor Only;Eyeball Chat;Permit;true;Do not block based on bandwidth
+Monitor Only;EZPeer;Permit;true;Do not block based on bandwidth
+Monitor Only;FastTrack (Kazaa iMesh);Permit;true;Do not block based on bandwidth
+Monitor Only;Finetune;Permit;true;Do not block based on bandwidth
+Monitor Only;finger;Permit;false;Do not block based on bandwidth
+Monitor Only;FolderShare;Permit;true;Do not block based on bandwidth
+Monitor Only;FTP;Permit;true;Do not block based on bandwidth
+Monitor Only;Gadu-Gadu;Permit;true;Do not block based on bandwidth
+Monitor Only;GhostSurf;Permit;true;Do not block based on bandwidth
+Monitor Only;GigaTribe;Permit;true;Do not block based on bandwidth
+Monitor Only;Gizmo Project;Permit;true;Do not block based on bandwidth
+Monitor Only;Globe7;Permit;false;Do not block based on bandwidth
+Monitor Only;Gmail Chat (WSG Only);Permit;true;Do not block based on bandwidth
+Monitor Only;Gnutella (Morpheus Xolox);Permit;true;Do not block based on bandwidth
+Monitor Only;Goober Messenger;Permit;false;Do not block based on bandwidth
+Monitor Only;Google Talk;Permit;true;Do not block based on bandwidth
+Monitor Only;Google Video;Permit;true;Do not block based on bandwidth
+Monitor Only;Google Wave (WSG Only);Permit;false;Do not block based on bandwidth
+Monitor Only;Google Web Accelerator;Permit;true;Do not block based on bandwidth
+Monitor Only;Gopher;Permit;true;Do not block based on bandwidth
+Monitor Only;Hamachi;Permit;true;Do not block based on bandwidth
+Monitor Only;Hopster;Permit;true;Do not block based on bandwidth
+Monitor Only;Hotline Connect;Permit;true;Do not block based on bandwidth
+Monitor Only;HTTP;Permit;false;Do not block based on bandwidth
+Monitor Only;HTTPS;Permit;false;Do not block based on bandwidth
+Monitor Only;Hulu;Permit;false;Do not block based on bandwidth
+Monitor Only;ident;Permit;false;Do not block based on bandwidth
+Monitor Only;IMAP;Permit;false;Do not block based on bandwidth
+Monitor Only;IMVU;Permit;true;Do not block based on bandwidth
+Monitor Only;Instant Housecall;Permit;false;Do not block based on bandwidth
+Monitor Only;IRC;Permit;true;Do not block based on bandwidth
+Monitor Only;iSpQ;Permit;false;Do not block based on bandwidth
+Monitor Only;iTunes;Permit;true;Do not block based on bandwidth
+Monitor Only;JAP;Permit;true;Do not block based on bandwidth
+Monitor Only;JetCast;Permit;true;Do not block based on bandwidth
+Monitor Only;Joost;Permit;false;Do not block based on bandwidth
+Monitor Only;LDAP;Permit;false;Do not block based on bandwidth
+Monitor Only;Liquid Audio;Permit;true;Do not block based on bandwidth
+Monitor Only;Live Mesh;Permit;false;Do not block based on bandwidth
+Monitor Only;LogMeIn;Permit;false;Do not block based on bandwidth
+Monitor Only;Lotus Notes;Permit;false;Do not block based on bandwidth
+Monitor Only;Mail.Ru;Permit;false;Do not block based on bandwidth
+Monitor Only;Meetro;Permit;true;Do not block based on bandwidth
+Monitor Only;Metacafe;Permit;true;Do not block based on bandwidth
+Monitor Only;Microsoft HTTPMail;Permit;false;Do not block based on bandwidth
+Monitor Only;Mikogo;Permit;false;Do not block based on bandwidth
+Monitor Only;MindSpring;Permit;true;Do not block based on bandwidth
+Monitor Only;MSC Messenger;Permit;true;Do not block based on bandwidth
+Monitor Only;MSN Messenger;Permit;true;Do not block based on bandwidth
+Monitor Only;MSN Messenger attachments;Permit;false;Do not block based on bandwidth
+Monitor Only;MyGreenPC;Permit;false;Do not block based on bandwidth
+Monitor Only;MyIVO;Permit;true;Do not block based on bandwidth
+Monitor Only;MyPlay;Permit;false;Do not block based on bandwidth
+Monitor Only;MySpaceIM;Permit;true;Do not block based on bandwidth
+Monitor Only;MySpace Player;Permit;false;Do not block based on bandwidth
+Monitor Only;NateOn;Permit;true;Do not block based on bandwidth
+Monitor Only;NateOn Messenger Attachments;Permit;false;Do not block based on bandwidth
+Monitor Only;NateOn Remote Access;Permit;false;Do not block based on bandwidth
+Monitor Only;Neos;Permit;true;Do not block based on bandwidth
+Monitor Only;Netease Popo;Permit;true;Do not block based on bandwidth
+Monitor Only;netFM Messenger;Permit;false;Do not block based on bandwidth
+Monitor Only;NetMeeting;Permit;false;Do not block based on bandwidth
+Monitor Only;NFS;Permit;false;Do not block based on bandwidth
+Monitor Only;Nimbuzz;Permit;false;Do not block based on bandwidth
+Monitor Only;NNTP;Permit;false;Do not block based on bandwidth
+Monitor Only;NTP;Permit;false;Do not block based on bandwidth
+Monitor Only;Octoshape;Permit;false;Do not block based on bandwidth
+Monitor Only;Onshare;Permit;true;Do not block based on bandwidth
+Monitor Only;OpenWindows;Permit;false;Do not block based on bandwidth
+Monitor Only;Opera Unite;Permit;false;Do not block based on bandwidth
+Monitor Only;Orsiso;Permit;false;Do not block based on bandwidth
+Monitor Only;Other;Permit;false;Do not block based on bandwidth
+Monitor Only;Palringo;Permit;false;Do not block based on bandwidth
+Monitor Only;Paltalk;Permit;true;Do not block based on bandwidth
+Monitor Only;Pando;Permit;true;Do not block based on bandwidth
+Monitor Only;Pandora;Permit;false;Do not block based on bandwidth
+Monitor Only;pcANYWHERE;Permit;false;Do not block based on bandwidth
+Monitor Only;pcTELECOMMUTE;Permit;false;Do not block based on bandwidth
+Monitor Only;PeerCast;Permit;true;Do not block based on bandwidth
+Monitor Only;POP3;Permit;false;Do not block based on bandwidth
+Monitor Only;pptp;Permit;false;Do not block based on bandwidth
+Monitor Only;Project Neon;Permit;true;Do not block based on bandwidth
+Monitor Only;Qnext;Permit;true;Do not block based on bandwidth
+Monitor Only;Raketu;Permit;true;Do not block based on bandwidth
+Monitor Only;RealTunnel;Permit;true;Do not block based on bandwidth
+Monitor Only;Remote Control PC;Permit;false;Do not block based on bandwidth
+Monitor Only;Revver;Permit;false;Do not block based on bandwidth
+Monitor Only;RTSP (QuickTime RealPlayer);Permit;true;Do not block based on bandwidth
+Monitor Only;ShareNow;Permit;false;Do not block based on bandwidth
+Monitor Only;SHOUTcast;Permit;true;Do not block based on bandwidth
+Monitor Only;SIMP (Jabber);Permit;true;Do not block based on bandwidth
+Monitor Only;Skype;Permit;true;Do not block based on bandwidth
+Monitor Only;Slingbox;Permit;true;Do not block based on bandwidth
+Monitor Only;SMTP;Permit;false;Do not block based on bandwidth
+Monitor Only;Social FM;Permit;true;Do not block based on bandwidth
+Monitor Only;SOCKS 5;Permit;false;Do not block based on bandwidth
+Monitor Only;SocksOnline;Permit;true;Do not block based on bandwidth
+Monitor Only;SoftEther PacketiX;Permit;false;Do not block based on bandwidth
+Monitor Only;Solid State Delivery Platform;Permit;false;Do not block based on bandwidth
+Monitor Only;SoonR;Permit;true;Do not block based on bandwidth
+Monitor Only;SoulSeek;Permit;true;Do not block based on bandwidth
+Monitor Only;Spotify;Permit;false;Do not block based on bandwidth
+Monitor Only;SQL Net;Permit;false;Do not block based on bandwidth
+Monitor Only;ssh;Permit;false;Do not block based on bandwidth
+Monitor Only;TeamViewer;Permit;false;Do not block based on bandwidth
+Monitor Only;Telnet;Permit;false;Do not block based on bandwidth
+Monitor Only;Tencent QQ (see the Knowledge Base);Permit;true;Do not block based on bandwidth
+Monitor Only;Terminal Services;Permit;false;Do not block based on bandwidth
+Monitor Only;TongTongTong;Permit;true;Do not block based on bandwidth
+Monitor Only;Toonel;Permit;true;Do not block based on bandwidth
+Monitor Only;Tor;Permit;true;Do not block based on bandwidth
+Monitor Only;TryFast Messenger;Permit;true;Do not block based on bandwidth
+Monitor Only;Vimeo;Permit;false;Do not block based on bandwidth
+Monitor Only;VNC;Permit;false;Do not block based on bandwidth
+Monitor Only;Voxox;Permit;false;Do not block based on bandwidth
+Monitor Only;Vyew;Permit;false;Do not block based on bandwidth
+Monitor Only;VZOchat;Permit;true;Do not block based on bandwidth
+Monitor Only;WAIS;Permit;true;Do not block based on bandwidth
+Monitor Only;WallCooler VPN;Permit;false;Do not block based on bandwidth
+Monitor Only;Wavago;Permit;true;Do not block based on bandwidth
+Monitor Only;WebEx (PCNow & Support Center);Permit;false;Do not block based on bandwidth
+Monitor Only;Wengo;Permit;true;Do not block based on bandwidth
+Monitor Only;Windows Media;Permit;true;Do not block based on bandwidth
+Monitor Only;Woize;Permit;true;Do not block based on bandwidth
+Monitor Only;Xfire;Permit;true;Do not block based on bandwidth
+Monitor Only;X-IM;Permit;true;Do not block based on bandwidth
+Monitor Only;Yahoo! Mail Chat;Permit;true;Do not block based on bandwidth
+Monitor Only;Yahoo! Messenger;Permit;true;Do not block based on bandwidth
+Monitor Only;Yahoo! Messenger attachments;Permit;false;Do not block based on bandwidth
+Monitor Only;Your Freedom;Permit;true;Do not block based on bandwidth
+Monitor Only;YouSendIt;Permit;false;Do not block based on bandwidth
+Monitor Only;Yuuguu;Permit;false;Do not block based on bandwidth
+Monitor Only;Zolved;Permit;false;Do not block based on bandwidth
+Nclose testing;Access Grid;Permit;false;Do not block based on bandwidth
+Nclose testing;Adobe Updater (WSG Only);Permit;false;Do not block based on bandwidth
+Nclose testing;AOL Instant Messenger or ICQ;Permit;true;Do not block based on bandwidth
+Nclose testing;AOL Instant Messenger or ICQ attachments;Permit;false;Do not block based on bandwidth
+Nclose testing;AOL Radio;Permit;true;Do not block based on bandwidth
+Nclose testing;Ares;Permit;true;Do not block based on bandwidth
+Nclose testing;Badongo Buddy;Permit;true;Do not block based on bandwidth
+Nclose testing;Baidu Hi;Permit;true;Do not block based on bandwidth
+Nclose testing;BBC iPlayer;Permit;false;Do not block based on bandwidth
+Nclose testing;BeInSync;Permit;false;Do not block based on bandwidth
+Nclose testing;BitTorrent;Permit;true;Do not block based on bandwidth
+Nclose testing;Bot Networks;Block;false;Do not block based on bandwidth
+Nclose testing;BoxCloud;Permit;true;Do not block based on bandwidth
+Nclose testing;Brosix;Permit;true;Do not block based on bandwidth
+Nclose testing;Camfrog;Permit;true;Do not block based on bandwidth
+Nclose testing;Chikka Messenger;Permit;true;Do not block based on bandwidth
+Nclose testing;Citrix;Permit;false;Do not block based on bandwidth
+Nclose testing;ClipMoon;Permit;false;Do not block based on bandwidth
+Nclose testing;ClubBox;Permit;true;Do not block based on bandwidth
+Nclose testing;Comodo EasyVPN;Permit;false;Do not block based on bandwidth
+Nclose testing;CrossLoop;Permit;false;Do not block based on bandwidth
+Nclose testing;Dailymotion;Permit;false;Do not block based on bandwidth
+Nclose testing;Damaka;Permit;true;Do not block based on bandwidth
+Nclose testing;daytime;Permit;false;Do not block based on bandwidth
+Nclose testing;DirectConnect;Permit;true;Do not block based on bandwidth
+Nclose testing;eDonkey;Permit;true;Do not block based on bandwidth
+Nclose testing;Email Borne Worms;Block;false;Do not block based on bandwidth
+Nclose testing;Eyeball Chat;Permit;true;Do not block based on bandwidth
+Nclose testing;EZPeer;Permit;true;Do not block based on bandwidth
+Nclose testing;FastTrack (Kazaa iMesh);Permit;true;Do not block based on bandwidth
+Nclose testing;Finetune;Permit;true;Do not block based on bandwidth
+Nclose testing;finger;Permit;false;Do not block based on bandwidth
+Nclose testing;FolderShare;Permit;true;Do not block based on bandwidth
+Nclose testing;FTP;Permit;true;Do not block based on bandwidth
+Nclose testing;Gadu-Gadu;Permit;true;Do not block based on bandwidth
+Nclose testing;GhostSurf;Block;true;Do not block based on bandwidth
+Nclose testing;GigaTribe;Permit;true;Do not block based on bandwidth
+Nclose testing;Gizmo Project;Permit;true;Do not block based on bandwidth
+Nclose testing;Globe7;Permit;true;Do not block based on bandwidth
+Nclose testing;Gmail Chat (WSG Only);Permit;true;Do not block based on bandwidth
+Nclose testing;Gnutella (Morpheus Xolox);Permit;true;Do not block based on bandwidth
+Nclose testing;Goober Messenger;Permit;true;Do not block based on bandwidth
+Nclose testing;Google Talk;Permit;true;Do not block based on bandwidth
+Nclose testing;Google Video;Permit;true;Do not block based on bandwidth
+Nclose testing;Google Wave (WSG Only);Permit;true;Do not block based on bandwidth
+Nclose testing;Google Web Accelerator;Block;true;Do not block based on bandwidth
+Nclose testing;Gopher;Permit;true;Do not block based on bandwidth
+Nclose testing;Hamachi;Permit;true;Do not block based on bandwidth
+Nclose testing;Hopster;Block;true;Do not block based on bandwidth
+Nclose testing;Hotline Connect;Permit;true;Do not block based on bandwidth
+Nclose testing;HTTP;Permit;false;Do not block based on bandwidth
+Nclose testing;HTTPS;Permit;true;Do not block based on bandwidth
+Nclose testing;Hulu;Permit;false;Do not block based on bandwidth
+Nclose testing;ident;Permit;false;Do not block based on bandwidth
+Nclose testing;IMAP;Permit;false;Do not block based on bandwidth
+Nclose testing;IMVU;Permit;true;Do not block based on bandwidth
+Nclose testing;Instant Housecall;Permit;false;Do not block based on bandwidth
+Nclose testing;IRC;Permit;true;Do not block based on bandwidth
+Nclose testing;iSpQ;Permit;true;Do not block based on bandwidth
+Nclose testing;iTunes;Permit;true;Do not block based on bandwidth
+Nclose testing;JAP;Block;true;Do not block based on bandwidth
+Nclose testing;JetCast;Permit;true;Do not block based on bandwidth
+Nclose testing;Joost;Permit;false;Do not block based on bandwidth
+Nclose testing;LDAP;Permit;false;Do not block based on bandwidth
+Nclose testing;Liquid Audio;Permit;true;Do not block based on bandwidth
+Nclose testing;Live Mesh;Permit;true;Do not block based on bandwidth
+Nclose testing;LogMeIn;Permit;false;Do not block based on bandwidth
+Nclose testing;Lotus Notes;Permit;false;Do not block based on bandwidth
+Nclose testing;Mail.Ru;Permit;true;Do not block based on bandwidth
+Nclose testing;Meetro;Permit;true;Do not block based on bandwidth
+Nclose testing;Metacafe;Permit;true;Do not block based on bandwidth
+Nclose testing;Microsoft HTTPMail;Permit;false;Do not block based on bandwidth
+Nclose testing;Mikogo;Permit;false;Do not block based on bandwidth
+Nclose testing;MindSpring;Permit;true;Do not block based on bandwidth
+Nclose testing;MSC Messenger;Permit;true;Do not block based on bandwidth
+Nclose testing;MSN Messenger;Permit;true;Do not block based on bandwidth
+Nclose testing;MSN Messenger attachments;Permit;false;Do not block based on bandwidth
+Nclose testing;MyGreenPC;Permit;false;Do not block based on bandwidth
+Nclose testing;MyIVO;Permit;true;Do not block based on bandwidth
+Nclose testing;MyPlay;Permit;false;Do not block based on bandwidth
+Nclose testing;MySpaceIM;Permit;true;Do not block based on bandwidth
+Nclose testing;MySpace Player;Permit;false;Do not block based on bandwidth
+Nclose testing;NateOn;Permit;true;Do not block based on bandwidth
+Nclose testing;NateOn Messenger Attachments;Permit;false;Do not block based on bandwidth
+Nclose testing;NateOn Remote Access;Permit;false;Do not block based on bandwidth
+Nclose testing;Neos;Permit;true;Do not block based on bandwidth
+Nclose testing;Netease Popo;Permit;true;Do not block based on bandwidth
+Nclose testing;netFM Messenger;Permit;true;Do not block based on bandwidth
+Nclose testing;NetMeeting;Permit;false;Do not block based on bandwidth
+Nclose testing;NFS;Permit;false;Do not block based on bandwidth
+Nclose testing;Nimbuzz;Permit;true;Do not block based on bandwidth
+Nclose testing;NNTP;Permit;false;Do not block based on bandwidth
+Nclose testing;NTP;Permit;false;Do not block based on bandwidth
+Nclose testing;Octoshape;Permit;false;Do not block based on bandwidth
+Nclose testing;Onshare;Permit;true;Do not block based on bandwidth
+Nclose testing;OpenWindows;Permit;false;Do not block based on bandwidth
+Nclose testing;Opera Unite;Permit;true;Do not block based on bandwidth
+Nclose testing;Orsiso;Permit;true;Do not block based on bandwidth
+Nclose testing;Other;Block;false;Do not block based on bandwidth
+Nclose testing;Palringo;Permit;true;Do not block based on bandwidth
+Nclose testing;Paltalk;Permit;true;Do not block based on bandwidth
+Nclose testing;Pando;Permit;true;Do not block based on bandwidth
+Nclose testing;Pandora;Permit;false;Do not block based on bandwidth
+Nclose testing;pcANYWHERE;Permit;false;Do not block based on bandwidth
+Nclose testing;pcTELECOMMUTE;Permit;false;Do not block based on bandwidth
+Nclose testing;PeerCast;Permit;true;Do not block based on bandwidth
+Nclose testing;POP3;Permit;false;Do not block based on bandwidth
+Nclose testing;pptp;Permit;false;Do not block based on bandwidth
+Nclose testing;Project Neon;Permit;true;Do not block based on bandwidth
+Nclose testing;Qnext;Permit;true;Do not block based on bandwidth
+Nclose testing;Raketu;Permit;true;Do not block based on bandwidth
+Nclose testing;RealTunnel;Block;true;Do not block based on bandwidth
+Nclose testing;Remote Control PC;Permit;false;Do not block based on bandwidth
+Nclose testing;Revver;Permit;false;Do not block based on bandwidth
+Nclose testing;RTSP (QuickTime RealPlayer);Permit;true;Do not block based on bandwidth
+Nclose testing;ShareNow;Permit;true;Do not block based on bandwidth
+Nclose testing;SHOUTcast;Permit;true;Do not block based on bandwidth
+Nclose testing;SIMP (Jabber);Permit;true;Do not block based on bandwidth
+Nclose testing;Skype;Permit;true;Do not block based on bandwidth
+Nclose testing;Slingbox;Permit;true;Do not block based on bandwidth
+Nclose testing;SMTP;Permit;false;Do not block based on bandwidth
+Nclose testing;Social FM;Permit;true;Do not block based on bandwidth
+Nclose testing;SOCKS 5;Permit;false;Do not block based on bandwidth
+Nclose testing;SocksOnline;Block;true;Do not block based on bandwidth
+Nclose testing;SoftEther PacketiX;Permit;false;Do not block based on bandwidth
+Nclose testing;Solid State Delivery Platform;Permit;true;Do not block based on bandwidth
+Nclose testing;SoonR;Permit;true;Do not block based on bandwidth
+Nclose testing;SoulSeek;Permit;true;Do not block based on bandwidth
+Nclose testing;Spotify;Permit;false;Do not block based on bandwidth
+Nclose testing;SQL Net;Permit;false;Do not block based on bandwidth
+Nclose testing;ssh;Permit;false;Do not block based on bandwidth
+Nclose testing;TeamViewer;Permit;false;Do not block based on bandwidth
+Nclose testing;Telnet;Permit;false;Do not block based on bandwidth
+Nclose testing;Tencent QQ (see the Knowledge Base);Permit;true;Do not block based on bandwidth
+Nclose testing;Terminal Services;Permit;false;Do not block based on bandwidth
+Nclose testing;TongTongTong;Block;true;Do not block based on bandwidth
+Nclose testing;Toonel;Block;true;Do not block based on bandwidth
+Nclose testing;Tor;Block;true;Do not block based on bandwidth
+Nclose testing;TryFast Messenger;Permit;true;Do not block based on bandwidth
+Nclose testing;Vimeo;Permit;false;Do not block based on bandwidth
+Nclose testing;VNC;Permit;false;Do not block based on bandwidth
+Nclose testing;Voxox;Permit;true;Do not block based on bandwidth
+Nclose testing;Vyew;Permit;false;Do not block based on bandwidth
+Nclose testing;VZOchat;Permit;true;Do not block based on bandwidth
+Nclose testing;WAIS;Permit;true;Do not block based on bandwidth
+Nclose testing;WallCooler VPN;Permit;false;Do not block based on bandwidth
+Nclose testing;Wavago;Permit;true;Do not block based on bandwidth
+Nclose testing;WebEx (PCNow & Support Center);Permit;false;Do not block based on bandwidth
+Nclose testing;Wengo;Permit;true;Do not block based on bandwidth
+Nclose testing;Windows Media;Permit;true;Do not block based on bandwidth
+Nclose testing;Woize;Permit;true;Do not block based on bandwidth
+Nclose testing;Xfire;Permit;true;Do not block based on bandwidth
+Nclose testing;X-IM;Permit;true;Do not block based on bandwidth
+Nclose testing;Yahoo! Mail Chat;Permit;true;Do not block based on bandwidth
+Nclose testing;Yahoo! Messenger;Permit;true;Do not block based on bandwidth
+Nclose testing;Yahoo! Messenger attachments;Permit;false;Do not block based on bandwidth
+Nclose testing;Your Freedom;Block;true;Do not block based on bandwidth
+Nclose testing;YouSendIt;Permit;false;Do not block based on bandwidth
+Nclose testing;Yuuguu;Permit;false;Do not block based on bandwidth
+Nclose testing;Zolved;Permit;false;Do not block based on bandwidth
+Permit All;Access Grid;Permit;false;Do not block based on bandwidth
+Permit All;Adobe Updater (WSG Only);Permit;false;Do not block based on bandwidth
+Permit All;AOL Instant Messenger or ICQ;Permit;false;Do not block based on bandwidth
+Permit All;AOL Instant Messenger or ICQ attachments;Permit;false;Do not block based on bandwidth
+Permit All;AOL Radio;Permit;false;Do not block based on bandwidth
+Permit All;Ares;Permit;false;Do not block based on bandwidth
+Permit All;Badongo Buddy;Permit;false;Do not block based on bandwidth
+Permit All;Baidu Hi;Permit;false;Do not block based on bandwidth
+Permit All;BBC iPlayer;Permit;false;Do not block based on bandwidth
+Permit All;BeInSync;Permit;false;Do not block based on bandwidth
+Permit All;BitTorrent;Permit;false;Do not block based on bandwidth
+Permit All;Bot Networks;Permit;false;Do not block based on bandwidth
+Permit All;BoxCloud;Permit;false;Do not block based on bandwidth
+Permit All;Brosix;Permit;false;Do not block based on bandwidth
+Permit All;Camfrog;Permit;false;Do not block based on bandwidth
+Permit All;Chikka Messenger;Permit;false;Do not block based on bandwidth
+Permit All;Citrix;Permit;false;Do not block based on bandwidth
+Permit All;ClipMoon;Permit;false;Do not block based on bandwidth
+Permit All;ClubBox;Permit;false;Do not block based on bandwidth
+Permit All;Comodo EasyVPN;Permit;false;Do not block based on bandwidth
+Permit All;CrossLoop;Permit;false;Do not block based on bandwidth
+Permit All;Dailymotion;Permit;false;Do not block based on bandwidth
+Permit All;Damaka;Permit;false;Do not block based on bandwidth
+Permit All;daytime;Permit;false;Do not block based on bandwidth
+Permit All;DirectConnect;Permit;false;Do not block based on bandwidth
+Permit All;eDonkey;Permit;false;Do not block based on bandwidth
+Permit All;Email Borne Worms;Permit;false;Do not block based on bandwidth
+Permit All;Eyeball Chat;Permit;false;Do not block based on bandwidth
+Permit All;EZPeer;Permit;false;Do not block based on bandwidth
+Permit All;FastTrack (Kazaa iMesh);Permit;false;Do not block based on bandwidth
+Permit All;Finetune;Permit;false;Do not block based on bandwidth
+Permit All;finger;Permit;false;Do not block based on bandwidth
+Permit All;FolderShare;Permit;false;Do not block based on bandwidth
+Permit All;FTP;Permit;false;Do not block based on bandwidth
+Permit All;Gadu-Gadu;Permit;false;Do not block based on bandwidth
+Permit All;GhostSurf;Permit;false;Do not block based on bandwidth
+Permit All;GigaTribe;Permit;false;Do not block based on bandwidth
+Permit All;Gizmo Project;Permit;false;Do not block based on bandwidth
+Permit All;Globe7;Permit;false;Do not block based on bandwidth
+Permit All;Gmail Chat (WSG Only);Permit;false;Do not block based on bandwidth
+Permit All;Gnutella (Morpheus Xolox);Permit;false;Do not block based on bandwidth
+Permit All;Goober Messenger;Permit;false;Do not block based on bandwidth
+Permit All;Google Talk;Permit;false;Do not block based on bandwidth
+Permit All;Google Video;Permit;false;Do not block based on bandwidth
+Permit All;Google Wave (WSG Only);Permit;false;Do not block based on bandwidth
+Permit All;Google Web Accelerator;Permit;false;Do not block based on bandwidth
+Permit All;Gopher;Permit;false;Do not block based on bandwidth
+Permit All;Hamachi;Permit;false;Do not block based on bandwidth
+Permit All;Hopster;Permit;false;Do not block based on bandwidth
+Permit All;Hotline Connect;Permit;false;Do not block based on bandwidth
+Permit All;HTTP;Permit;false;Do not block based on bandwidth
+Permit All;HTTPS;Permit;false;Do not block based on bandwidth
+Permit All;Hulu;Permit;false;Do not block based on bandwidth
+Permit All;ident;Permit;false;Do not block based on bandwidth
+Permit All;IMAP;Permit;false;Do not block based on bandwidth
+Permit All;IMVU;Permit;false;Do not block based on bandwidth
+Permit All;Instant Housecall;Permit;false;Do not block based on bandwidth
+Permit All;IRC;Permit;false;Do not block based on bandwidth
+Permit All;iSpQ;Permit;false;Do not block based on bandwidth
+Permit All;iTunes;Permit;false;Do not block based on bandwidth
+Permit All;JAP;Permit;false;Do not block based on bandwidth
+Permit All;JetCast;Permit;false;Do not block based on bandwidth
+Permit All;Joost;Permit;false;Do not block based on bandwidth
+Permit All;LDAP;Permit;false;Do not block based on bandwidth
+Permit All;Liquid Audio;Permit;false;Do not block based on bandwidth
+Permit All;Live Mesh;Permit;false;Do not block based on bandwidth
+Permit All;LogMeIn;Permit;false;Do not block based on bandwidth
+Permit All;Lotus Notes;Permit;false;Do not block based on bandwidth
+Permit All;Mail.Ru;Permit;false;Do not block based on bandwidth
+Permit All;Meetro;Permit;false;Do not block based on bandwidth
+Permit All;Metacafe;Permit;false;Do not block based on bandwidth
+Permit All;Microsoft HTTPMail;Permit;false;Do not block based on bandwidth
+Permit All;Mikogo;Permit;false;Do not block based on bandwidth
+Permit All;MindSpring;Permit;false;Do not block based on bandwidth
+Permit All;MSC Messenger;Permit;false;Do not block based on bandwidth
+Permit All;MSN Messenger;Permit;false;Do not block based on bandwidth
+Permit All;MSN Messenger attachments;Permit;false;Do not block based on bandwidth
+Permit All;MyGreenPC;Permit;false;Do not block based on bandwidth
+Permit All;MyIVO;Permit;false;Do not block based on bandwidth
+Permit All;MyPlay;Permit;false;Do not block based on bandwidth
+Permit All;MySpaceIM;Permit;false;Do not block based on bandwidth
+Permit All;MySpace Player;Permit;false;Do not block based on bandwidth
+Permit All;NateOn;Permit;false;Do not block based on bandwidth
+Permit All;NateOn Messenger Attachments;Permit;false;Do not block based on bandwidth
+Permit All;NateOn Remote Access;Permit;false;Do not block based on bandwidth
+Permit All;Neos;Permit;false;Do not block based on bandwidth
+Permit All;Netease Popo;Permit;false;Do not block based on bandwidth
+Permit All;netFM Messenger;Permit;false;Do not block based on bandwidth
+Permit All;NetMeeting;Permit;false;Do not block based on bandwidth
+Permit All;NFS;Permit;false;Do not block based on bandwidth
+Permit All;Nimbuzz;Permit;false;Do not block based on bandwidth
+Permit All;NNTP;Permit;false;Do not block based on bandwidth
+Permit All;NTP;Permit;false;Do not block based on bandwidth
+Permit All;Octoshape;Permit;false;Do not block based on bandwidth
+Permit All;Onshare;Permit;false;Do not block based on bandwidth
+Permit All;OpenWindows;Permit;false;Do not block based on bandwidth
+Permit All;Opera Unite;Permit;false;Do not block based on bandwidth
+Permit All;Orsiso;Permit;false;Do not block based on bandwidth
+Permit All;Other;Permit;false;Do not block based on bandwidth
+Permit All;Palringo;Permit;false;Do not block based on bandwidth
+Permit All;Paltalk;Permit;false;Do not block based on bandwidth
+Permit All;Pando;Permit;false;Do not block based on bandwidth
+Permit All;Pandora;Permit;false;Do not block based on bandwidth
+Permit All;pcANYWHERE;Permit;false;Do not block based on bandwidth
+Permit All;pcTELECOMMUTE;Permit;false;Do not block based on bandwidth
+Permit All;PeerCast;Permit;false;Do not block based on bandwidth
+Permit All;POP3;Permit;false;Do not block based on bandwidth
+Permit All;pptp;Permit;false;Do not block based on bandwidth
+Permit All;Project Neon;Permit;false;Do not block based on bandwidth
+Permit All;Qnext;Permit;false;Do not block based on bandwidth
+Permit All;Raketu;Permit;false;Do not block based on bandwidth
+Permit All;RealTunnel;Permit;false;Do not block based on bandwidth
+Permit All;Remote Control PC;Permit;false;Do not block based on bandwidth
+Permit All;Revver;Permit;false;Do not block based on bandwidth
+Permit All;RTSP (QuickTime RealPlayer);Permit;false;Do not block based on bandwidth
+Permit All;ShareNow;Permit;false;Do not block based on bandwidth
+Permit All;SHOUTcast;Permit;false;Do not block based on bandwidth
+Permit All;SIMP (Jabber);Permit;false;Do not block based on bandwidth
+Permit All;Skype;Permit;false;Do not block based on bandwidth
+Permit All;Slingbox;Permit;false;Do not block based on bandwidth
+Permit All;SMTP;Permit;false;Do not block based on bandwidth
+Permit All;Social FM;Permit;false;Do not block based on bandwidth
+Permit All;SOCKS 5;Permit;false;Do not block based on bandwidth
+Permit All;SocksOnline;Permit;false;Do not block based on bandwidth
+Permit All;SoftEther PacketiX;Permit;false;Do not block based on bandwidth
+Permit All;Solid State Delivery Platform;Permit;false;Do not block based on bandwidth
+Permit All;SoonR;Permit;false;Do not block based on bandwidth
+Permit All;SoulSeek;Permit;false;Do not block based on bandwidth
+Permit All;Spotify;Permit;false;Do not block based on bandwidth
+Permit All;SQL Net;Permit;false;Do not block based on bandwidth
+Permit All;ssh;Permit;false;Do not block based on bandwidth
+Permit All;TeamViewer;Permit;false;Do not block based on bandwidth
+Permit All;Telnet;Permit;false;Do not block based on bandwidth
+Permit All;Tencent QQ (see the Knowledge Base);Permit;false;Do not block based on bandwidth
+Permit All;Terminal Services;Permit;false;Do not block based on bandwidth
+Permit All;TongTongTong;Permit;false;Do not block based on bandwidth
+Permit All;Toonel;Permit;false;Do not block based on bandwidth
+Permit All;Tor;Permit;false;Do not block based on bandwidth
+Permit All;TryFast Messenger;Permit;false;Do not block based on bandwidth
+Permit All;Vimeo;Permit;false;Do not block based on bandwidth
+Permit All;VNC;Permit;false;Do not block based on bandwidth
+Permit All;Voxox;Permit;false;Do not block based on bandwidth
+Permit All;Vyew;Permit;false;Do not block based on bandwidth
+Permit All;VZOchat;Permit;false;Do not block based on bandwidth
+Permit All;WAIS;Permit;false;Do not block based on bandwidth
+Permit All;WallCooler VPN;Permit;false;Do not block based on bandwidth
+Permit All;Wavago;Permit;false;Do not block based on bandwidth
+Permit All;WebEx (PCNow & Support Center);Permit;false;Do not block based on bandwidth
+Permit All;Wengo;Permit;false;Do not block based on bandwidth
+Permit All;Windows Media;Permit;false;Do not block based on bandwidth
+Permit All;Woize;Permit;false;Do not block based on bandwidth
+Permit All;Xfire;Permit;false;Do not block based on bandwidth
+Permit All;X-IM;Permit;false;Do not block based on bandwidth
+Permit All;Yahoo! Mail Chat;Permit;false;Do not block based on bandwidth
+Permit All;Yahoo! Messenger;Permit;false;Do not block based on bandwidth
+Permit All;Yahoo! Messenger attachments;Permit;false;Do not block based on bandwidth
+Permit All;Your Freedom;Permit;false;Do not block based on bandwidth
+Permit All;YouSendIt;Permit;false;Do not block based on bandwidth
+Permit All;Yuuguu;Permit;false;Do not block based on bandwidth
+Permit All;Zolved;Permit;false;Do not block based on bandwidth
+Remote Access;Access Grid;Block;false;Do not block based on bandwidth
+Remote Access;Adobe Updater (WSG Only);Block;false;Do not block based on bandwidth
+Remote Access;AOL Instant Messenger or ICQ;Block;true;Do not block based on bandwidth
+Remote Access;AOL Instant Messenger or ICQ attachments;Block;false;Do not block based on bandwidth
+Remote Access;AOL Radio;Block;false;Do not block based on bandwidth
+Remote Access;Ares;Block;true;Do not block based on bandwidth
+Remote Access;Badongo Buddy;Block;false;Do not block based on bandwidth
+Remote Access;Baidu Hi;Block;false;Do not block based on bandwidth
+Remote Access;BBC iPlayer;Block;false;Do not block based on bandwidth
+Remote Access;BeInSync;Block;false;Do not block based on bandwidth
+Remote Access;BitTorrent;Block;true;Do not block based on bandwidth
+Remote Access;Bot Networks;Block;false;Do not block based on bandwidth
+Remote Access;BoxCloud;Block;true;Do not block based on bandwidth
+Remote Access;Brosix;Block;false;Do not block based on bandwidth
+Remote Access;Camfrog;Block;true;Do not block based on bandwidth
+Remote Access;Chikka Messenger;Block;false;Do not block based on bandwidth
+Remote Access;Citrix;Permit;false;Do not block based on bandwidth
+Remote Access;ClipMoon;Block;false;Do not block based on bandwidth
+Remote Access;ClubBox;Block;true;Do not block based on bandwidth
+Remote Access;Comodo EasyVPN;Block;false;Do not block based on bandwidth
+Remote Access;CrossLoop;Block;false;Do not block based on bandwidth
+Remote Access;Dailymotion;Block;false;Do not block based on bandwidth
+Remote Access;Damaka;Block;true;Do not block based on bandwidth
+Remote Access;daytime;Block;false;Do not block based on bandwidth
+Remote Access;DirectConnect;Block;true;Do not block based on bandwidth
+Remote Access;eDonkey;Block;true;Do not block based on bandwidth
+Remote Access;Email Borne Worms;Block;false;Do not block based on bandwidth
+Remote Access;Eyeball Chat;Block;true;Do not block based on bandwidth
+Remote Access;EZPeer;Block;true;Do not block based on bandwidth
+Remote Access;FastTrack (Kazaa iMesh);Block;true;Do not block based on bandwidth
+Remote Access;Finetune;Block;false;Do not block based on bandwidth
+Remote Access;finger;Block;false;Do not block based on bandwidth
+Remote Access;FolderShare;Block;true;Do not block based on bandwidth
+Remote Access;FTP;Block;true;Do not block based on bandwidth
+Remote Access;Gadu-Gadu;Block;true;Do not block based on bandwidth
+Remote Access;GhostSurf;Block;true;Do not block based on bandwidth
+Remote Access;GigaTribe;Block;true;Do not block based on bandwidth
+Remote Access;Gizmo Project;Block;true;Do not block based on bandwidth
+Remote Access;Globe7;Block;false;Do not block based on bandwidth
+Remote Access;Gmail Chat (WSG Only);Block;true;Do not block based on bandwidth
+Remote Access;Gnutella (Morpheus Xolox);Block;false;Do not block based on bandwidth
+Remote Access;Goober Messenger;Block;false;Do not block based on bandwidth
+Remote Access;Google Talk;Block;true;Do not block based on bandwidth
+Remote Access;Google Video;Block;false;Do not block based on bandwidth
+Remote Access;Google Wave (WSG Only);Block;false;Do not block based on bandwidth
+Remote Access;Google Web Accelerator;Block;true;Do not block based on bandwidth
+Remote Access;Gopher;Block;true;Do not block based on bandwidth
+Remote Access;Hamachi;Block;true;Do not block based on bandwidth
+Remote Access;Hopster;Block;true;Do not block based on bandwidth
+Remote Access;Hotline Connect;Block;true;Do not block based on bandwidth
+Remote Access;HTTP;Permit;false;Do not block based on bandwidth
+Remote Access;HTTPS;Permit;true;Do not block based on bandwidth
+Remote Access;Hulu;Block;false;Do not block based on bandwidth
+Remote Access;ident;Block;false;Do not block based on bandwidth
+Remote Access;IMAP;Block;false;Do not block based on bandwidth
+Remote Access;IMVU;Block;true;Do not block based on bandwidth
+Remote Access;Instant Housecall;Block;false;Do not block based on bandwidth
+Remote Access;IRC;Block;true;Do not block based on bandwidth
+Remote Access;iSpQ;Block;false;Do not block based on bandwidth
+Remote Access;iTunes;Block;false;Do not block based on bandwidth
+Remote Access;JAP;Block;true;Do not block based on bandwidth
+Remote Access;JetCast;Block;false;Do not block based on bandwidth
+Remote Access;Joost;Block;false;Do not block based on bandwidth
+Remote Access;LDAP;Block;false;Do not block based on bandwidth
+Remote Access;Liquid Audio;Block;false;Do not block based on bandwidth
+Remote Access;Live Mesh;Block;false;Do not block based on bandwidth
+Remote Access;LogMeIn;Permit;false;Do not block based on bandwidth
+Remote Access;Lotus Notes;Block;false;Do not block based on bandwidth
+Remote Access;Mail.Ru;Block;false;Do not block based on bandwidth
+Remote Access;Meetro;Block;true;Do not block based on bandwidth
+Remote Access;Metacafe;Block;false;Do not block based on bandwidth
+Remote Access;Microsoft HTTPMail;Block;false;Do not block based on bandwidth
+Remote Access;Mikogo;Block;false;Do not block based on bandwidth
+Remote Access;MindSpring;Block;true;Do not block based on bandwidth
+Remote Access;MSC Messenger;Block;true;Do not block based on bandwidth
+Remote Access;MSN Messenger;Block;true;Do not block based on bandwidth
+Remote Access;MSN Messenger attachments;Block;false;Do not block based on bandwidth
+Remote Access;MyGreenPC;Block;false;Do not block based on bandwidth
+Remote Access;MyIVO;Block;false;Do not block based on bandwidth
+Remote Access;MyPlay;Block;false;Do not block based on bandwidth
+Remote Access;MySpaceIM;Block;true;Do not block based on bandwidth
+Remote Access;MySpace Player;Block;false;Do not block based on bandwidth
+Remote Access;NateOn;Block;true;Do not block based on bandwidth
+Remote Access;NateOn Messenger Attachments;Block;false;Do not block based on bandwidth
+Remote Access;NateOn Remote Access;Block;false;Do not block based on bandwidth
+Remote Access;Neos;Block;true;Do not block based on bandwidth
+Remote Access;Netease Popo;Block;true;Do not block based on bandwidth
+Remote Access;netFM Messenger;Block;false;Do not block based on bandwidth
+Remote Access;NetMeeting;Block;false;Do not block based on bandwidth
+Remote Access;NFS;Block;false;Do not block based on bandwidth
+Remote Access;Nimbuzz;Block;false;Do not block based on bandwidth
+Remote Access;NNTP;Block;false;Do not block based on bandwidth
+Remote Access;NTP;Block;false;Do not block based on bandwidth
+Remote Access;Octoshape;Block;false;Do not block based on bandwidth
+Remote Access;Onshare;Block;true;Do not block based on bandwidth
+Remote Access;OpenWindows;Block;false;Do not block based on bandwidth
+Remote Access;Opera Unite;Block;false;Do not block based on bandwidth
+Remote Access;Orsiso;Block;false;Do not block based on bandwidth
+Remote Access;Other;Block;false;Do not block based on bandwidth
+Remote Access;Palringo;Block;false;Do not block based on bandwidth
+Remote Access;Paltalk;Block;true;Do not block based on bandwidth
+Remote Access;Pando;Block;true;Do not block based on bandwidth
+Remote Access;Pandora;Block;false;Do not block based on bandwidth
+Remote Access;pcANYWHERE;Permit;false;Do not block based on bandwidth
+Remote Access;pcTELECOMMUTE;Block;false;Do not block based on bandwidth
+Remote Access;PeerCast;Block;false;Do not block based on bandwidth
+Remote Access;POP3;Block;false;Do not block based on bandwidth
+Remote Access;pptp;Permit;false;Do not block based on bandwidth
+Remote Access;Project Neon;Block;true;Do not block based on bandwidth
+Remote Access;Qnext;Block;true;Do not block based on bandwidth
+Remote Access;Raketu;Block;true;Do not block based on bandwidth
+Remote Access;RealTunnel;Block;true;Do not block based on bandwidth
+Remote Access;Remote Control PC;Permit;false;Do not block based on bandwidth
+Remote Access;Revver;Block;false;Do not block based on bandwidth
+Remote Access;RTSP (QuickTime RealPlayer);Block;false;Do not block based on bandwidth
+Remote Access;ShareNow;Block;false;Do not block based on bandwidth
+Remote Access;SHOUTcast;Block;false;Do not block based on bandwidth
+Remote Access;SIMP (Jabber);Block;true;Do not block based on bandwidth
+Remote Access;Skype;Block;true;Do not block based on bandwidth
+Remote Access;Slingbox;Block;false;Do not block based on bandwidth
+Remote Access;SMTP;Block;false;Do not block based on bandwidth
+Remote Access;Social FM;Block;false;Do not block based on bandwidth
+Remote Access;SOCKS 5;Block;false;Do not block based on bandwidth
+Remote Access;SocksOnline;Block;true;Do not block based on bandwidth
+Remote Access;SoftEther PacketiX;Block;false;Do not block based on bandwidth
+Remote Access;Solid State Delivery Platform;Block;false;Do not block based on bandwidth
+Remote Access;SoonR;Block;false;Do not block based on bandwidth
+Remote Access;SoulSeek;Block;true;Do not block based on bandwidth
+Remote Access;Spotify;Block;false;Do not block based on bandwidth
+Remote Access;SQL Net;Block;false;Do not block based on bandwidth
+Remote Access;ssh;Permit;false;Do not block based on bandwidth
+Remote Access;TeamViewer;Permit;false;Do not block based on bandwidth
+Remote Access;Telnet;Block;false;Do not block based on bandwidth
+Remote Access;Tencent QQ (see the Knowledge Base);Block;true;Do not block based on bandwidth
+Remote Access;Terminal Services;Permit;false;Do not block based on bandwidth
+Remote Access;TongTongTong;Block;true;Do not block based on bandwidth
+Remote Access;Toonel;Block;true;Do not block based on bandwidth
+Remote Access;Tor;Block;true;Do not block based on bandwidth
+Remote Access;TryFast Messenger;Block;true;Do not block based on bandwidth
+Remote Access;Vimeo;Block;false;Do not block based on bandwidth
+Remote Access;VNC;Permit;false;Do not block based on bandwidth
+Remote Access;Voxox;Block;false;Do not block based on bandwidth
+Remote Access;Vyew;Block;false;Do not block based on bandwidth
+Remote Access;VZOchat;Block;true;Do not block based on bandwidth
+Remote Access;WAIS;Block;true;Do not block based on bandwidth
+Remote Access;WallCooler VPN;Block;false;Do not block based on bandwidth
+Remote Access;Wavago;Block;true;Do not block based on bandwidth
+Remote Access;WebEx (PCNow & Support Center);Permit;false;Do not block based on bandwidth
+Remote Access;Wengo;Block;true;Do not block based on bandwidth
+Remote Access;Windows Media;Block;false;Do not block based on bandwidth
+Remote Access;Woize;Block;true;Do not block based on bandwidth
+Remote Access;Xfire;Block;true;Do not block based on bandwidth
+Remote Access;X-IM;Block;true;Do not block based on bandwidth
+Remote Access;Yahoo! Mail Chat;Block;true;Do not block based on bandwidth
+Remote Access;Yahoo! Messenger;Block;true;Do not block based on bandwidth
+Remote Access;Yahoo! Messenger attachments;Block;false;Do not block based on bandwidth
+Remote Access;Your Freedom;Block;true;Do not block based on bandwidth
+Remote Access;YouSendIt;Block;true;Do not block based on bandwidth
+Remote Access;Yuuguu;Block;false;Do not block based on bandwidth
+Remote Access;Zolved;Block;false;Do not block based on bandwidth
+Skype;Access Grid;Block;false;Do not block based on bandwidth
+Skype;Adobe Updater (WSG Only);Block;false;Do not block based on bandwidth
+Skype;AOL Instant Messenger or ICQ;Block;true;Do not block based on bandwidth
+Skype;AOL Instant Messenger or ICQ attachments;Block;false;Do not block based on bandwidth
+Skype;AOL Radio;Block;true;Do not block based on bandwidth
+Skype;Ares;Block;true;Do not block based on bandwidth
+Skype;Badongo Buddy;Block;false;Do not block based on bandwidth
+Skype;Baidu Hi;Block;false;Do not block based on bandwidth
+Skype;BBC iPlayer;Block;false;Do not block based on bandwidth
+Skype;BeInSync;Block;false;Do not block based on bandwidth
+Skype;BitTorrent;Block;true;Do not block based on bandwidth
+Skype;Bot Networks;Block;false;Do not block based on bandwidth
+Skype;BoxCloud;Block;true;Do not block based on bandwidth
+Skype;Brosix;Block;false;Do not block based on bandwidth
+Skype;Camfrog;Block;true;Do not block based on bandwidth
+Skype;Chikka Messenger;Block;false;Do not block based on bandwidth
+Skype;Citrix;Block;false;Do not block based on bandwidth
+Skype;ClipMoon;Block;false;Do not block based on bandwidth
+Skype;ClubBox;Block;true;Do not block based on bandwidth
+Skype;Comodo EasyVPN;Block;false;Do not block based on bandwidth
+Skype;CrossLoop;Block;false;Do not block based on bandwidth
+Skype;Dailymotion;Block;false;Do not block based on bandwidth
+Skype;Damaka;Block;true;Do not block based on bandwidth
+Skype;daytime;Block;false;Do not block based on bandwidth
+Skype;DirectConnect;Block;true;Do not block based on bandwidth
+Skype;eDonkey;Block;true;Do not block based on bandwidth
+Skype;Email Borne Worms;Block;false;Do not block based on bandwidth
+Skype;Eyeball Chat;Block;true;Do not block based on bandwidth
+Skype;EZPeer;Block;true;Do not block based on bandwidth
+Skype;FastTrack (Kazaa iMesh);Block;true;Do not block based on bandwidth
+Skype;Finetune;Block;false;Do not block based on bandwidth
+Skype;finger;Block;false;Do not block based on bandwidth
+Skype;FolderShare;Block;true;Do not block based on bandwidth
+Skype;FTP;Block;true;Do not block based on bandwidth
+Skype;Gadu-Gadu;Block;true;Do not block based on bandwidth
+Skype;GhostSurf;Block;true;Do not block based on bandwidth
+Skype;GigaTribe;Block;true;Do not block based on bandwidth
+Skype;Gizmo Project;Block;true;Do not block based on bandwidth
+Skype;Globe7;Block;false;Do not block based on bandwidth
+Skype;Gmail Chat (WSG Only);Block;true;Do not block based on bandwidth
+Skype;Gnutella (Morpheus Xolox);Block;false;Do not block based on bandwidth
+Skype;Goober Messenger;Block;false;Do not block based on bandwidth
+Skype;Google Talk;Block;true;Do not block based on bandwidth
+Skype;Google Video;Block;false;Do not block based on bandwidth
+Skype;Google Wave (WSG Only);Block;false;Do not block based on bandwidth
+Skype;Google Web Accelerator;Block;true;Do not block based on bandwidth
+Skype;Gopher;Block;true;Do not block based on bandwidth
+Skype;Hamachi;Block;true;Do not block based on bandwidth
+Skype;Hopster;Block;true;Do not block based on bandwidth
+Skype;Hotline Connect;Block;true;Do not block based on bandwidth
+Skype;HTTP;Permit;false;Do not block based on bandwidth
+Skype;HTTPS;Permit;true;Do not block based on bandwidth
+Skype;Hulu;Block;false;Do not block based on bandwidth
+Skype;ident;Block;false;Do not block based on bandwidth
+Skype;IMAP;Block;false;Do not block based on bandwidth
+Skype;IMVU;Block;true;Do not block based on bandwidth
+Skype;Instant Housecall;Block;false;Do not block based on bandwidth
+Skype;IRC;Block;true;Do not block based on bandwidth
+Skype;iSpQ;Block;false;Do not block based on bandwidth
+Skype;iTunes;Block;false;Do not block based on bandwidth
+Skype;JAP;Block;true;Do not block based on bandwidth
+Skype;JetCast;Block;false;Do not block based on bandwidth
+Skype;Joost;Block;false;Do not block based on bandwidth
+Skype;LDAP;Block;false;Do not block based on bandwidth
+Skype;Liquid Audio;Block;false;Do not block based on bandwidth
+Skype;Live Mesh;Block;false;Do not block based on bandwidth
+Skype;LogMeIn;Block;false;Do not block based on bandwidth
+Skype;Lotus Notes;Block;false;Do not block based on bandwidth
+Skype;Mail.Ru;Block;false;Do not block based on bandwidth
+Skype;Meetro;Block;true;Do not block based on bandwidth
+Skype;Metacafe;Block;false;Do not block based on bandwidth
+Skype;Microsoft HTTPMail;Block;false;Do not block based on bandwidth
+Skype;Mikogo;Block;false;Do not block based on bandwidth
+Skype;MindSpring;Block;true;Do not block based on bandwidth
+Skype;MSC Messenger;Block;true;Do not block based on bandwidth
+Skype;MSN Messenger;Block;true;Do not block based on bandwidth
+Skype;MSN Messenger attachments;Block;false;Do not block based on bandwidth
+Skype;MyGreenPC;Block;false;Do not block based on bandwidth
+Skype;MyIVO;Block;false;Do not block based on bandwidth
+Skype;MyPlay;Block;false;Do not block based on bandwidth
+Skype;MySpaceIM;Block;true;Do not block based on bandwidth
+Skype;MySpace Player;Block;false;Do not block based on bandwidth
+Skype;NateOn;Block;true;Do not block based on bandwidth
+Skype;NateOn Messenger Attachments;Block;false;Do not block based on bandwidth
+Skype;NateOn Remote Access;Block;false;Do not block based on bandwidth
+Skype;Neos;Block;true;Do not block based on bandwidth
+Skype;Netease Popo;Block;true;Do not block based on bandwidth
+Skype;netFM Messenger;Block;false;Do not block based on bandwidth
+Skype;NetMeeting;Block;false;Do not block based on bandwidth
+Skype;NFS;Block;false;Do not block based on bandwidth
+Skype;Nimbuzz;Block;false;Do not block based on bandwidth
+Skype;NNTP;Block;false;Do not block based on bandwidth
+Skype;NTP;Block;false;Do not block based on bandwidth
+Skype;Octoshape;Block;false;Do not block based on bandwidth
+Skype;Onshare;Block;true;Do not block based on bandwidth
+Skype;OpenWindows;Block;false;Do not block based on bandwidth
+Skype;Opera Unite;Block;false;Do not block based on bandwidth
+Skype;Orsiso;Block;false;Do not block based on bandwidth
+Skype;Other;Block;false;Do not block based on bandwidth
+Skype;Palringo;Block;false;Do not block based on bandwidth
+Skype;Paltalk;Block;true;Do not block based on bandwidth
+Skype;Pando;Block;true;Do not block based on bandwidth
+Skype;Pandora;Block;false;Do not block based on bandwidth
+Skype;pcANYWHERE;Block;false;Do not block based on bandwidth
+Skype;pcTELECOMMUTE;Block;false;Do not block based on bandwidth
+Skype;PeerCast;Block;false;Do not block based on bandwidth
+Skype;POP3;Block;false;Do not block based on bandwidth
+Skype;pptp;Block;false;Do not block based on bandwidth
+Skype;Project Neon;Block;true;Do not block based on bandwidth
+Skype;Qnext;Block;true;Do not block based on bandwidth
+Skype;Raketu;Block;true;Do not block based on bandwidth
+Skype;RealTunnel;Block;true;Do not block based on bandwidth
+Skype;Remote Control PC;Block;false;Do not block based on bandwidth
+Skype;Revver;Block;false;Do not block based on bandwidth
+Skype;RTSP (QuickTime RealPlayer);Block;false;Do not block based on bandwidth
+Skype;ShareNow;Block;false;Do not block based on bandwidth
+Skype;SHOUTcast;Block;false;Do not block based on bandwidth
+Skype;SIMP (Jabber);Block;true;Do not block based on bandwidth
+Skype;Skype;Permit;true;Do not block based on bandwidth
+Skype;Slingbox;Block;false;Do not block based on bandwidth
+Skype;SMTP;Block;false;Do not block based on bandwidth
+Skype;Social FM;Block;false;Do not block based on bandwidth
+Skype;SOCKS 5;Block;false;Do not block based on bandwidth
+Skype;SocksOnline;Block;true;Do not block based on bandwidth
+Skype;SoftEther PacketiX;Block;false;Do not block based on bandwidth
+Skype;Solid State Delivery Platform;Block;false;Do not block based on bandwidth
+Skype;SoonR;Block;false;Do not block based on bandwidth
+Skype;SoulSeek;Block;true;Do not block based on bandwidth
+Skype;Spotify;Block;false;Do not block based on bandwidth
+Skype;SQL Net;Block;false;Do not block based on bandwidth
+Skype;ssh;Block;false;Do not block based on bandwidth
+Skype;TeamViewer;Block;false;Do not block based on bandwidth
+Skype;Telnet;Block;false;Do not block based on bandwidth
+Skype;Tencent QQ (see the Knowledge Base);Block;true;Do not block based on bandwidth
+Skype;Terminal Services;Block;false;Do not block based on bandwidth
+Skype;TongTongTong;Block;true;Do not block based on bandwidth
+Skype;Toonel;Block;true;Do not block based on bandwidth
+Skype;Tor;Block;true;Do not block based on bandwidth
+Skype;TryFast Messenger;Block;true;Do not block based on bandwidth
+Skype;Vimeo;Block;false;Do not block based on bandwidth
+Skype;VNC;Block;false;Do not block based on bandwidth
+Skype;Voxox;Block;false;Do not block based on bandwidth
+Skype;Vyew;Block;false;Do not block based on bandwidth
+Skype;VZOchat;Block;true;Do not block based on bandwidth
+Skype;WAIS;Block;true;Do not block based on bandwidth
+Skype;WallCooler VPN;Block;false;Do not block based on bandwidth
+Skype;Wavago;Block;true;Do not block based on bandwidth
+Skype;WebEx (PCNow & Support Center);Block;false;Do not block based on bandwidth
+Skype;Wengo;Block;true;Do not block based on bandwidth
+Skype;Windows Media;Block;false;Do not block based on bandwidth
+Skype;Woize;Block;true;Do not block based on bandwidth
+Skype;Xfire;Block;true;Do not block based on bandwidth
+Skype;X-IM;Block;true;Do not block based on bandwidth
+Skype;Yahoo! Mail Chat;Block;true;Do not block based on bandwidth
+Skype;Yahoo! Messenger;Block;true;Do not block based on bandwidth
+Skype;Yahoo! Messenger attachments;Block;false;Do not block based on bandwidth
+Skype;Your Freedom;Block;true;Do not block based on bandwidth
+Skype;YouSendIt;Block;true;Do not block based on bandwidth
+Skype;Yuuguu;Block;false;Do not block based on bandwidth
+Skype;Zolved;Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Access Grid;Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Adobe Updater (WSG Only);Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;AOL Instant Messenger or ICQ;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;AOL Instant Messenger or ICQ attachments;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;AOL Radio;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Ares;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Badongo Buddy;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Baidu Hi;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;BBC iPlayer;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;BeInSync;Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;BitTorrent;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Bot Networks;Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;BoxCloud;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Brosix;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Camfrog;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Chikka Messenger;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Citrix;Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;ClipMoon;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;ClubBox;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Comodo EasyVPN;Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;CrossLoop;Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Dailymotion;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Damaka;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;daytime;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;DirectConnect;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;eDonkey;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Email Borne Worms;Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Eyeball Chat;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;EZPeer;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;FastTrack (Kazaa iMesh);Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Finetune;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;finger;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;FolderShare;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;FTP;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Gadu-Gadu;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;GhostSurf;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;GigaTribe;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Gizmo Project;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Globe7;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Gmail Chat (WSG Only);Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Gnutella (Morpheus Xolox);Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Goober Messenger;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Google Talk;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Google Video;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Google Wave (WSG Only);Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Google Web Accelerator;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Gopher;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Hamachi;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Hopster;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Hotline Connect;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;HTTP;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;HTTPS;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Hulu;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;ident;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;IMAP;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;IMVU;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Instant Housecall;Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;IRC;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;iSpQ;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;iTunes;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;JAP;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;JetCast;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Joost;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;LDAP;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Liquid Audio;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Live Mesh;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;LogMeIn;Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Lotus Notes;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Mail.Ru;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Meetro;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Metacafe;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Microsoft HTTPMail;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Mikogo;Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;MindSpring;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;MSC Messenger;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;MSN Messenger;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;MSN Messenger attachments;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;MyGreenPC;Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;MyIVO;Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;MyPlay;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;MySpaceIM;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;MySpace Player;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;NateOn;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;NateOn Messenger Attachments;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;NateOn Remote Access;Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Neos;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Netease Popo;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;netFM Messenger;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;NetMeeting;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;NFS;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Nimbuzz;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;NNTP;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;NTP;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Octoshape;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Onshare;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;OpenWindows;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Opera Unite;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Orsiso;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Other;Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Palringo;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Paltalk;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Pando;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Pandora;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;pcANYWHERE;Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;pcTELECOMMUTE;Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;PeerCast;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;POP3;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;pptp;Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Project Neon;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Qnext;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Raketu;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;RealTunnel;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Remote Control PC;Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Revver;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;RTSP (QuickTime RealPlayer);Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;ShareNow;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;SHOUTcast;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;SIMP (Jabber);Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Skype;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Slingbox;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;SMTP;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Social FM;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;SOCKS 5;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;SocksOnline;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;SoftEther PacketiX;Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Solid State Delivery Platform;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;SoonR;Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;SoulSeek;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Spotify;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;SQL Net;Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;ssh;Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;TeamViewer;Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Telnet;Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Tencent QQ (see the Knowledge Base);Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Terminal Services;Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;TongTongTong;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Toonel;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Tor;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;TryFast Messenger;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Vimeo;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;VNC;Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Voxox;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Vyew;Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;VZOchat;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;WAIS;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;WallCooler VPN;Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Wavago;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;WebEx (PCNow & Support Center);Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Wengo;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Windows Media;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Woize;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Xfire;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;X-IM;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Yahoo! Mail Chat;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Yahoo! Messenger;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Yahoo! Messenger attachments;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Your Freedom;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;YouSendIt;Permit;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Yuuguu;Block;false;Do not block based on bandwidth
+WebProxy-No_Restrictions;Zolved;Block;false;Do not block based on bandwidth
+Whatsappweb;Access Grid;Block;false;Do not block based on bandwidth
+Whatsappweb;Adobe Updater (WSG Only);Block;false;Do not block based on bandwidth
+Whatsappweb;AOL Instant Messenger or ICQ;Block;true;Do not block based on bandwidth
+Whatsappweb;AOL Instant Messenger or ICQ attachments;Block;false;Do not block based on bandwidth
+Whatsappweb;AOL Radio;Block;true;Do not block based on bandwidth
+Whatsappweb;Ares;Block;true;Do not block based on bandwidth
+Whatsappweb;Badongo Buddy;Block;false;Do not block based on bandwidth
+Whatsappweb;Baidu Hi;Block;false;Do not block based on bandwidth
+Whatsappweb;BBC iPlayer;Block;false;Do not block based on bandwidth
+Whatsappweb;BeInSync;Block;false;Do not block based on bandwidth
+Whatsappweb;BitTorrent;Block;true;Do not block based on bandwidth
+Whatsappweb;Bot Networks;Block;false;Do not block based on bandwidth
+Whatsappweb;BoxCloud;Block;true;Do not block based on bandwidth
+Whatsappweb;Brosix;Block;false;Do not block based on bandwidth
+Whatsappweb;Camfrog;Block;true;Do not block based on bandwidth
+Whatsappweb;Chikka Messenger;Block;false;Do not block based on bandwidth
+Whatsappweb;Citrix;Block;false;Do not block based on bandwidth
+Whatsappweb;ClipMoon;Block;false;Do not block based on bandwidth
+Whatsappweb;ClubBox;Block;true;Do not block based on bandwidth
+Whatsappweb;Comodo EasyVPN;Block;false;Do not block based on bandwidth
+Whatsappweb;CrossLoop;Block;false;Do not block based on bandwidth
+Whatsappweb;Dailymotion;Block;false;Do not block based on bandwidth
+Whatsappweb;Damaka;Block;true;Do not block based on bandwidth
+Whatsappweb;daytime;Block;false;Do not block based on bandwidth
+Whatsappweb;DirectConnect;Block;true;Do not block based on bandwidth
+Whatsappweb;eDonkey;Block;true;Do not block based on bandwidth
+Whatsappweb;Email Borne Worms;Block;false;Do not block based on bandwidth
+Whatsappweb;Eyeball Chat;Block;true;Do not block based on bandwidth
+Whatsappweb;EZPeer;Block;true;Do not block based on bandwidth
+Whatsappweb;FastTrack (Kazaa iMesh);Block;true;Do not block based on bandwidth
+Whatsappweb;Finetune;Block;false;Do not block based on bandwidth
+Whatsappweb;finger;Block;false;Do not block based on bandwidth
+Whatsappweb;FolderShare;Block;true;Do not block based on bandwidth
+Whatsappweb;FTP;Block;true;Do not block based on bandwidth
+Whatsappweb;Gadu-Gadu;Block;true;Do not block based on bandwidth
+Whatsappweb;GhostSurf;Block;true;Do not block based on bandwidth
+Whatsappweb;GigaTribe;Block;true;Do not block based on bandwidth
+Whatsappweb;Gizmo Project;Block;true;Do not block based on bandwidth
+Whatsappweb;Globe7;Block;false;Do not block based on bandwidth
+Whatsappweb;Gmail Chat (WSG Only);Block;true;Do not block based on bandwidth
+Whatsappweb;Gnutella (Morpheus Xolox);Block;false;Do not block based on bandwidth
+Whatsappweb;Goober Messenger;Block;false;Do not block based on bandwidth
+Whatsappweb;Google Talk;Block;true;Do not block based on bandwidth
+Whatsappweb;Google Video;Block;false;Do not block based on bandwidth
+Whatsappweb;Google Wave (WSG Only);Block;false;Do not block based on bandwidth
+Whatsappweb;Google Web Accelerator;Block;true;Do not block based on bandwidth
+Whatsappweb;Gopher;Block;true;Do not block based on bandwidth
+Whatsappweb;Hamachi;Block;true;Do not block based on bandwidth
+Whatsappweb;Hopster;Block;true;Do not block based on bandwidth
+Whatsappweb;Hotline Connect;Block;true;Do not block based on bandwidth
+Whatsappweb;HTTP;Permit;false;Do not block based on bandwidth
+Whatsappweb;HTTPS;Permit;true;Do not block based on bandwidth
+Whatsappweb;Hulu;Block;false;Do not block based on bandwidth
+Whatsappweb;ident;Block;false;Do not block based on bandwidth
+Whatsappweb;IMAP;Block;false;Do not block based on bandwidth
+Whatsappweb;IMVU;Block;true;Do not block based on bandwidth
+Whatsappweb;Instant Housecall;Block;false;Do not block based on bandwidth
+Whatsappweb;IRC;Block;true;Do not block based on bandwidth
+Whatsappweb;iSpQ;Block;false;Do not block based on bandwidth
+Whatsappweb;iTunes;Block;false;Do not block based on bandwidth
+Whatsappweb;JAP;Block;true;Do not block based on bandwidth
+Whatsappweb;JetCast;Block;false;Do not block based on bandwidth
+Whatsappweb;Joost;Block;false;Do not block based on bandwidth
+Whatsappweb;LDAP;Block;false;Do not block based on bandwidth
+Whatsappweb;Liquid Audio;Block;false;Do not block based on bandwidth
+Whatsappweb;Live Mesh;Block;false;Do not block based on bandwidth
+Whatsappweb;LogMeIn;Block;false;Do not block based on bandwidth
+Whatsappweb;Lotus Notes;Block;false;Do not block based on bandwidth
+Whatsappweb;Mail.Ru;Block;false;Do not block based on bandwidth
+Whatsappweb;Meetro;Block;true;Do not block based on bandwidth
+Whatsappweb;Metacafe;Block;false;Do not block based on bandwidth
+Whatsappweb;Microsoft HTTPMail;Block;false;Do not block based on bandwidth
+Whatsappweb;Mikogo;Block;false;Do not block based on bandwidth
+Whatsappweb;MindSpring;Block;true;Do not block based on bandwidth
+Whatsappweb;MSC Messenger;Block;true;Do not block based on bandwidth
+Whatsappweb;MSN Messenger;Block;true;Do not block based on bandwidth
+Whatsappweb;MSN Messenger attachments;Block;false;Do not block based on bandwidth
+Whatsappweb;MyGreenPC;Block;false;Do not block based on bandwidth
+Whatsappweb;MyIVO;Block;false;Do not block based on bandwidth
+Whatsappweb;MyPlay;Block;false;Do not block based on bandwidth
+Whatsappweb;MySpaceIM;Block;true;Do not block based on bandwidth
+Whatsappweb;MySpace Player;Block;false;Do not block based on bandwidth
+Whatsappweb;NateOn;Block;true;Do not block based on bandwidth
+Whatsappweb;NateOn Messenger Attachments;Block;false;Do not block based on bandwidth
+Whatsappweb;NateOn Remote Access;Block;false;Do not block based on bandwidth
+Whatsappweb;Neos;Block;true;Do not block based on bandwidth
+Whatsappweb;Netease Popo;Block;true;Do not block based on bandwidth
+Whatsappweb;netFM Messenger;Block;false;Do not block based on bandwidth
+Whatsappweb;NetMeeting;Block;false;Do not block based on bandwidth
+Whatsappweb;NFS;Block;false;Do not block based on bandwidth
+Whatsappweb;Nimbuzz;Block;false;Do not block based on bandwidth
+Whatsappweb;NNTP;Block;false;Do not block based on bandwidth
+Whatsappweb;NTP;Block;false;Do not block based on bandwidth
+Whatsappweb;Octoshape;Block;false;Do not block based on bandwidth
+Whatsappweb;Onshare;Block;true;Do not block based on bandwidth
+Whatsappweb;OpenWindows;Block;false;Do not block based on bandwidth
+Whatsappweb;Opera Unite;Block;false;Do not block based on bandwidth
+Whatsappweb;Orsiso;Block;false;Do not block based on bandwidth
+Whatsappweb;Other;Block;false;Do not block based on bandwidth
+Whatsappweb;Palringo;Block;false;Do not block based on bandwidth
+Whatsappweb;Paltalk;Block;true;Do not block based on bandwidth
+Whatsappweb;Pando;Block;true;Do not block based on bandwidth
+Whatsappweb;Pandora;Block;false;Do not block based on bandwidth
+Whatsappweb;pcANYWHERE;Block;false;Do not block based on bandwidth
+Whatsappweb;pcTELECOMMUTE;Block;false;Do not block based on bandwidth
+Whatsappweb;PeerCast;Block;false;Do not block based on bandwidth
+Whatsappweb;POP3;Block;false;Do not block based on bandwidth
+Whatsappweb;pptp;Block;false;Do not block based on bandwidth
+Whatsappweb;Project Neon;Block;true;Do not block based on bandwidth
+Whatsappweb;Qnext;Block;true;Do not block based on bandwidth
+Whatsappweb;Raketu;Block;true;Do not block based on bandwidth
+Whatsappweb;RealTunnel;Block;true;Do not block based on bandwidth
+Whatsappweb;Remote Control PC;Block;false;Do not block based on bandwidth
+Whatsappweb;Revver;Block;false;Do not block based on bandwidth
+Whatsappweb;RTSP (QuickTime RealPlayer);Block;false;Do not block based on bandwidth
+Whatsappweb;ShareNow;Block;false;Do not block based on bandwidth
+Whatsappweb;SHOUTcast;Block;false;Do not block based on bandwidth
+Whatsappweb;SIMP (Jabber);Block;true;Do not block based on bandwidth
+Whatsappweb;Skype;Block;true;Do not block based on bandwidth
+Whatsappweb;Slingbox;Block;false;Do not block based on bandwidth
+Whatsappweb;SMTP;Block;false;Do not block based on bandwidth
+Whatsappweb;Social FM;Block;false;Do not block based on bandwidth
+Whatsappweb;SOCKS 5;Block;false;Do not block based on bandwidth
+Whatsappweb;SocksOnline;Block;true;Do not block based on bandwidth
+Whatsappweb;SoftEther PacketiX;Block;false;Do not block based on bandwidth
+Whatsappweb;Solid State Delivery Platform;Block;false;Do not block based on bandwidth
+Whatsappweb;SoonR;Block;false;Do not block based on bandwidth
+Whatsappweb;SoulSeek;Block;true;Do not block based on bandwidth
+Whatsappweb;Spotify;Block;false;Do not block based on bandwidth
+Whatsappweb;SQL Net;Block;false;Do not block based on bandwidth
+Whatsappweb;ssh;Block;false;Do not block based on bandwidth
+Whatsappweb;TeamViewer;Block;false;Do not block based on bandwidth
+Whatsappweb;Telnet;Block;false;Do not block based on bandwidth
+Whatsappweb;Tencent QQ (see the Knowledge Base);Block;true;Do not block based on bandwidth
+Whatsappweb;Terminal Services;Block;false;Do not block based on bandwidth
+Whatsappweb;TongTongTong;Block;true;Do not block based on bandwidth
+Whatsappweb;Toonel;Block;true;Do not block based on bandwidth
+Whatsappweb;Tor;Block;true;Do not block based on bandwidth
+Whatsappweb;TryFast Messenger;Block;true;Do not block based on bandwidth
+Whatsappweb;Vimeo;Block;false;Do not block based on bandwidth
+Whatsappweb;VNC;Block;false;Do not block based on bandwidth
+Whatsappweb;Voxox;Block;false;Do not block based on bandwidth
+Whatsappweb;Vyew;Block;false;Do not block based on bandwidth
+Whatsappweb;VZOchat;Block;true;Do not block based on bandwidth
+Whatsappweb;WAIS;Block;true;Do not block based on bandwidth
+Whatsappweb;WallCooler VPN;Block;false;Do not block based on bandwidth
+Whatsappweb;Wavago;Block;true;Do not block based on bandwidth
+Whatsappweb;WebEx (PCNow & Support Center);Block;false;Do not block based on bandwidth
+Whatsappweb;Wengo;Block;true;Do not block based on bandwidth
+Whatsappweb;Windows Media;Block;false;Do not block based on bandwidth
+Whatsappweb;Woize;Block;true;Do not block based on bandwidth
+Whatsappweb;Xfire;Block;true;Do not block based on bandwidth
+Whatsappweb;X-IM;Block;true;Do not block based on bandwidth
+Whatsappweb;Yahoo! Mail Chat;Block;true;Do not block based on bandwidth
+Whatsappweb;Yahoo! Messenger;Block;true;Do not block based on bandwidth
+Whatsappweb;Yahoo! Messenger attachments;Block;false;Do not block based on bandwidth
+Whatsappweb;Your Freedom;Block;true;Do not block based on bandwidth
+Whatsappweb;YouSendIt;Block;true;Do not block based on bandwidth
+Whatsappweb;Yuuguu;Block;false;Do not block based on bandwidth
+Whatsappweb;Zolved;Block;false;Do not block based on bandwidth
